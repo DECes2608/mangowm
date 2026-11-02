@@ -1,16 +1,14 @@
-/* MangoBar — Dark Blue / Square / Compact */
-
 @define-color color-bg                         #282828;
-@define-color color-fg                         #ebdbb2;
+@define-color color-fg                         #0d0c08;
 @define-color color-bg-alt                     #928374;
 
-@define-color color-button-urgent-bg           #32302f;
-@define-color color-button-urgent-fg           #8ec07c;
-@define-color color-workspace-button-bg        #928374;
+@define-color color-button-urgent-bg           #282828;
+@define-color color-button-urgent-fg           #ebdbb2;
+@define-color color-workspace-button-bg        #282828;
 @define-color color-workspace-button-fg        #a89984;
-@define-color color-workspace-button-hover-bg  #fe8019;
+@define-color color-workspace-button-hover-bg  #ebdbb2;
 @define-color color-workspace-button-hover-fg  #e0e8f0;
-@define-color color-workspace-button-focused-bg #fabd2f;
+@define-color color-workspace-button-focused-bg #a89984;
 @define-color color-workspace-button-focused-fg #928374;
 
 /* Global */
@@ -106,22 +104,23 @@
 #keymode,
 #keyboardlayout {
     background-color: @color-bg;
-    color: #fe8019;
-    padding: 0 7px;
+    color: #a89984;
+    padding: 0 5px;
     margin: 0;
     min-height: 0;
 }
 
 /* Power */
 #custom-power {
-    padding: 0 8px;
+    padding: 0 5px;
     margin: 0;
     background-color: @color-bg;
 }
 
 /* Tray */
 #tray {
-    padding: 0 6px;
+    color: #a89984;
+    padding: 0 2px;
     margin: 0;
     background-color: @color-bg;
 }
@@ -129,7 +128,7 @@
 /* Menus */
 menu {
     background-color: #1a222e;
-    border: 1px solid #fe8019;
+    border: 1px solid #a89984;
     border-radius: 0;
     font-size: 13px;
 }
@@ -142,5 +141,5 @@ menuitem {
 
 menuitem:hover {
     color: #101520;
-    background-color: #fe8019;
+    background-color: #a89984;
 }
