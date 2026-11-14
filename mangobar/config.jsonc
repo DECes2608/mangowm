@@ -7,11 +7,11 @@
         "layout",
     ],
     "modules-center": [
+        "clock#time",
   ],
     "modules-right": [
         "hideclients",
         "pulseaudio",
-        "clock#time",
         "tray",
     ],
     "workspaces": {
