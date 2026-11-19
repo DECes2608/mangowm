@@ -1,0 +1,138 @@
+@define-color bg    #282828; 
+@define-color fg    #ebdbb2; 
+@define-color blk   #3c3836; 
+@define-color red   #fb4934; 
+@define-color grn   #b8bb26; 
+@define-color ylw   #fabd2f; 
+@define-color blu   #83a598; 
+@define-color mag   #d3869b; 
+@define-color cyn   #8ec07c; 
+@define-color orn   #fe8019;
+@define-color brblk #928374; 
+@define-color white #fbf1c7; 
+
+* {
+    font-family: "JetBrainsMono Nerd Font", monospace;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+window#waybar {
+    background-color: @bg;
+    color: @fg;
+}
+
+#workspaces button {
+    padding: 0 6px;
+    color: @fg;
+    background: transparent;
+    border-bottom: 3px solid @bg;
+}
+#workspaces button.active {
+    color: @white;
+    border-bottom: 3px solid @orn;
+}
+#workspaces button.empty {
+    color: @brblk;
+}
+#workspaces button.empty.active {
+    color: @white;
+    border-bottom: 3px solid @orn;
+}
+
+#workspaces button.urgent {
+    background-color: @red;
+    color: @bg;
+}
+
+button:hover {
+    background: inherit;
+    box-shadow: inset 0 -3px @fg;
+}
+
+#clock,
+#custom-sep,
+#battery,
+#cpu,
+#memory,
+#disk,
+#network,
+#wireplumber,
+#mpris,
+#tray {
+    padding: 0 8px;
+    color: @fg;
+}
+
+#custom-sep {
+    color: @brblk;
+}
+
+#clock {
+    color: @fg;
+    border-bottom: 0px solid @fg;
+}
+
+#wireplumber {
+    color: @ylw;
+    border-bottom: 0px solid @ylw;
+}
+
+#wireplumber.muted {
+    color: @red;
+    border-bottom: 0px solid @red;
+}
+
+#mpris {
+    color: @cyn;
+    border-bottom: 0px solid @cyn;
+}
+
+#battery {
+    color: @grn;
+    border-bottom: 0px solid @grn;
+}
+
+#disk {
+    color: @orn;
+    border-bottom: 0px solid @orn;
+}
+
+#memory {
+    color: @mag;
+    border-bottom: 0px solid @mag;
+}
+
+#cpu {
+    color: @ylw;
+    border-bottom: 0px solid @ylw;
+}
+
+#network {
+    color: @blu;
+    border-bottom: 0px solid @blu;
+}
+
+#network.disconnected {
+    background-color: @red;
+    color: @bg;
+}
+
+#tray {
+    background-color: transparent;
+    border-bottom: 0px solid @blu;
+}
+
+#custom-arch {
+  font-size: 15px;
+  color: @grn;
+}
+
+#custom-cpucat {
+  font-family: "Waycat", monospace;
+  font-size: 20px;
+  font-weight: bold;
+  color: @fg;
+  padding-left: 8px;
+  padding-right: 8px;
+}
