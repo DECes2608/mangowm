@@ -9,7 +9,7 @@ case "$option" in
   swaylock # Kilit ekranı için hyprlock kullanıyorsan
   ;;
 "Exit Mango")
-  quit
+  pkill mango
   ;;
 "Reboot")
   systemctl reboot

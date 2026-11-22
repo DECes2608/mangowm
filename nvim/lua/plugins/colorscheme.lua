@@ -1,12 +1,21 @@
 return {
-  -- add gruvbox
-  { "ellisonleao/gruvbox.nvim" },
-
-  -- Configure LazyVim to load gruvbox
+  {
+    "slugbyte/lackluster.nvim",
+    lazy = false,
+    priority = 1000,
+    opts = {
+      tweak_background = {
+        normal = "none",
+        telescope = "none",
+        menu = "none",
+        popup = "none",
+      },
+    },
+  },
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "gruvbox",
+      colorscheme = "lackluster",
     },
   },
 }

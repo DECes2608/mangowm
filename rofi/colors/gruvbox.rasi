@@ -1,7 +1,0 @@
-* {
-    bg:           #282828;
-    fg:           #ebdbb2;
-    fg-dim:       #a89984;
-    sel:          #3c3836;
-    border-color: #a89984;
-}

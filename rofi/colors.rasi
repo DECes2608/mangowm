@@ -1,0 +1,8 @@
+* {
+    bg:     #000000;
+    bg-alt: #121212;
+    fg:     #d4d4d4;
+    fg-alt: #666666;
+    white:  #ffffff;
+    purp:   #a855f7;
+}

@@ -5,91 +5,94 @@
     "height": 14,
     "padding": {
       "top": 2,
-      "left": 2,
-    },
+      "left": 2
+    }
   },
 
   "display": {
     "key": {
-      "width": 15,
+      "width": 15
     },
-    "color": "#cbd5e1",
-    "separator": "~>",
+    "color": "#666666",
+    "separator": "~>"
   },
   "modules": [
     "break",
-    {
+{
       "type": "title",
       "format": "{6}",
-      "color": "#e11d48",
+      "color": {
+        "user": "#a855f7"
+      }
     },
+
     "separator",
     {
       "type": "os",
       "key": "OS       ",
-      "keyColor": "#4fd1c5",
-      "format": "Arch (Btw)",
+      "keyColor": "#d4d4d4",
+      "format": "Arch (Btw)"
     },
     {
       "type": "kernel",
       "key": "Kernel   ",
-      "keyColor": "#4fd1c5",
-      "format": "{1} {2}",
+      "keyColor": "#d4d4d4",
+      "format": "{1} {2}"
     },
     {
       "type": "users",
       "key": "User     ",
-      "keyColor": "#4fd1c5",
-      "format": "Deces",
+      "keyColor": "#d4d4d4",
+      "format": "Deces"
     },
     "break",
     {
       "type": "uptime",
       "key": "Uptime   ",
-      "keyColor": "#4fd1c5",
+      "keyColor": "#d4d4d4"
     },
     {
       "type": "board",
       "key": "Device   ",
-      "keyColor": "#4fd1c5",
-      "format": "14-inch Ideapad 5 | 2 in 1",
+      "keyColor": "#d4d4d4",
+      "format": "14-inch Ideapad 5 | 2 in 1"
     },
     {
       "type": "bios",
       "key": "Bios     ",
-      "keyColor": "#4fd1c5",
-      "format": "{4}",
+      "keyColor": "#d4d4d4",
+      "format": "{4}"
     },
     {
       "type": "cpu",
       "key": "CPU      ",
       "temp": true,
       "showPeCoreCount": true,
-      "keyColor": "#4fd1c5",
-      "format": "{1}",
+      "keyColor": "#d4d4d4",
+      "format": "{1}"
     },
     {
       "type": "gpu",
       "key": "GPU      ",
       "temp": true,
       "showPeCoreCount": true,
-      "keyColor": "#4fd1c5",
-      "format": "{1} {2} {4}",
+      "keyColor": "#d4d4d4",
+      "format": "{1} {2} {4}"
     },
     {
       "type": "memory",
       "key": "RAM      ",
       "temp": true,
       "showPeCoreCount": true,
-      "keyColor": "#4fd1c5",
-      "format": "{1} / {2} {3}",
+      "keyColor": "#d4d4d4",
+      "format": "{1} / {2} {3}"
     },
     "break",
     {
       "type": "Disk",
       "key": "Disk     ",
-      "keyColor": "#4fd1c5",
-      "format": "{1} / {2} {3} ",
-    },
-  ],
+      "keyColor": "#d4d4d4",
+      "format": "{1} / {2} {3} "
+    }
+  ]
 }
