@@ -1,3 +1,4 @@
 # How it looks?
 
-<img width="1919" height="1080" alt="resim" src="https://github.com/user-attachments/assets/1063d87d-2151-4057-82e6-2c0e78ffa244" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/73df7ba5-320a-4f7c-89f0-4a193e516ffa" />
+
