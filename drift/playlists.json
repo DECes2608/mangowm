@@ -1,0 +1,7718 @@
+{
+  "playlists": {
+    "2000'ler Türkçe Rock": [
+      {
+        "id": "tZSvD-oZkDA",
+        "title": "Sen Ağlama",
+        "artist": "Badem",
+        "artists": [
+          "Badem"
+        ],
+        "album": "Badem",
+        "duration": 222
+      },
+      {
+        "id": "NSWI3QjOrt0",
+        "title": "Senin O Gözlerin Varya",
+        "artist": "Koridor",
+        "artists": [
+          "Koridor"
+        ],
+        "album": "Senin O Gözlerin Varya",
+        "duration": 315
+      },
+      {
+        "id": "I4Lq6DAsUfY",
+        "title": "Dön Bana",
+        "artist": "Cem Özkan",
+        "artists": [
+          "Cem Özkan"
+        ],
+        "album": "Kendimce",
+        "duration": 286
+      },
+      {
+        "id": "AWY4rIwWN00",
+        "title": "Ankara",
+        "artist": "Vega",
+        "artists": [
+          "Vega"
+        ],
+        "album": "Hafif Müzik",
+        "duration": 323
+      },
+      {
+        "id": "Oy4escPTna4",
+        "title": "Sigara",
+        "artist": "Şebnem Ferah",
+        "artists": [
+          "Şebnem Ferah"
+        ],
+        "album": "Perdeler",
+        "duration": 295
+      },
+      {
+        "id": "0c8KcSgiBbI",
+        "title": "Aman Aman",
+        "artist": "Duman",
+        "artists": [
+          "Duman"
+        ],
+        "album": "Seni Kendime Sakladım",
+        "duration": 246
+      },
+      {
+        "id": "g4aBjmVZRvw",
+        "title": "Kupa Kızı Ve Sinek Valesi",
+        "artist": "Teoman",
+        "artists": [
+          "Teoman"
+        ],
+        "album": "Teo",
+        "duration": 296
+      },
+      {
+        "id": "7fcMUU-_DGU",
+        "title": "Cevapsız Sorular",
+        "artist": "maNga",
+        "artists": [
+          "maNga"
+        ],
+        "album": "Şehr-i Hüzün",
+        "duration": 273
+      },
+      {
+        "id": "8ENmrZRNbn0",
+        "title": "Kalpsiz",
+        "artist": "Badem",
+        "artists": [
+          "Badem"
+        ],
+        "album": "S'onsuz",
+        "duration": 286
+      },
+      {
+        "id": "4L1C5FRIdiw",
+        "title": "Düşler Sokağı",
+        "artist": "Feridun Düzağaç",
+        "artists": [
+          "Feridun Düzağaç"
+        ],
+        "album": "Orjinal Alt Yazılı",
+        "duration": 270
+      },
+      {
+        "id": "TN7ysgDhVAQ",
+        "title": "Yağmur",
+        "artist": "Bertuğ Cemil",
+        "artists": [
+          "Bertuğ Cemil"
+        ],
+        "album": "Duygusal Tuzaklar",
+        "duration": 323
+      },
+      {
+        "id": "B06ZAITXsb0",
+        "title": "Hadi Beni Güldür",
+        "artist": "Ogün Sanlisoy",
+        "artists": [
+          "Ogün Sanlisoy"
+        ],
+        "album": "Üc",
+        "duration": 295
+      },
+      {
+        "id": "kPpQ0sb7t6o",
+        "title": "Elfida",
+        "artist": "Haluk Levent",
+        "artists": [
+          "Haluk Levent"
+        ],
+        "album": "Akşam Üstü",
+        "duration": 334
+      },
+      {
+        "id": "cxxoQilAfpU",
+        "title": "Sükut-u Hayal",
+        "artist": "Nev",
+        "artists": [
+          "Nev"
+        ],
+        "album": "Işığım ve Gölgem",
+        "duration": 275
+      },
+      {
+        "id": "khYuXsxteX8",
+        "title": "Mavi Duvar",
+        "artist": "Haramiler",
+        "artists": [
+          "Haramiler"
+        ],
+        "album": "Alın Yazısı",
+        "duration": 248
+      },
+      {
+        "id": "tpLHJput8mc",
+        "title": "Bir Derdim Var",
+        "artist": "mor ve ötesi",
+        "artists": [
+          "mor ve ötesi"
+        ],
+        "album": "Dünya Yalan Söylüyor",
+        "duration": 205
+      },
+      {
+        "id": "aoxqV9LeikI",
+        "title": "Bu Akşam Ölürüm",
+        "artist": "Murat Kekilli",
+        "artists": [
+          "Murat Kekilli"
+        ],
+        "album": "Bu Akşam Ölürüm",
+        "duration": 321
+      },
+      {
+        "id": "Slpvba4ZTTs",
+        "title": "Yıldızların Altında",
+        "artist": "Kargo",
+        "artists": [
+          "Kargo"
+        ],
+        "album": "Yıldızların Altında",
+        "duration": 178
+      },
+      {
+        "id": "tsyiUYcLoIo",
+        "title": "Serseri Mayın",
+        "artist": "Athena",
+        "artists": [
+          "Athena"
+        ],
+        "album": "Pis",
+        "duration": 263
+      },
+      {
+        "id": "X8Kp4sraui0",
+        "title": "Paramparça",
+        "artist": "Teoman",
+        "artists": [
+          "Teoman"
+        ],
+        "album": "17",
+        "duration": 233
+      },
+      {
+        "id": "USB0Bsj_q1k",
+        "title": "Karar Verdim",
+        "artist": "Göksel",
+        "artists": [
+          "Göksel"
+        ],
+        "album": "Arka Bahçem",
+        "duration": 212
+      },
+      {
+        "id": "xu1TZkxYDiE",
+        "title": "Mayın Tarlası",
+        "artist": "Şebnem Ferah",
+        "artists": [
+          "Şebnem Ferah"
+        ],
+        "album": "Kelimeler Yetse",
+        "duration": 324
+      },
+      {
+        "id": "E-CepHwRzQ0",
+        "title": "Serzenişte",
+        "artist": "Vega",
+        "artists": [
+          "Vega"
+        ],
+        "album": "Hafif Müzik",
+        "duration": 291
+      },
+      {
+        "id": "--ktfxczIxk",
+        "title": "Edepsiz Komedya",
+        "artist": "Sakin",
+        "artists": [
+          "Sakin"
+        ],
+        "album": "Hayat",
+        "duration": 164
+      },
+      {
+        "id": "F7xtr6MrdsA",
+        "title": "Gidin",
+        "artist": "Peyk",
+        "artists": [
+          "Peyk"
+        ],
+        "album": "Suluşaka",
+        "duration": 196
+      },
+      {
+        "id": "LMspc8zxrQ0",
+        "title": "Ölüyorum",
+        "artist": "Hayko Cepkin",
+        "artists": [
+          "Hayko Cepkin"
+        ],
+        "album": "Tanışma Bitti",
+        "duration": 222
+      },
+      {
+        "id": "FBJ9F27xgvY",
+        "title": "Unut Beni",
+        "artist": "Gece Yolcuları",
+        "artists": [
+          "Gece Yolcuları"
+        ],
+        "album": "Gece Yolcuları",
+        "duration": 244
+      },
+      {
+        "id": "SvjVOD6Sqlw",
+        "title": "Ölürüm Hasretinle",
+        "artist": "Seksendört",
+        "artists": [
+          "Seksendört"
+        ],
+        "album": "Seksendört",
+        "duration": 288
+      },
+      {
+        "id": "1t8L5MfIxN0",
+        "title": "Aşkın Mapushane",
+        "artist": "Haluk Levent",
+        "artists": [
+          "Haluk Levent"
+        ],
+        "album": "Kral Çıplak",
+        "duration": 305
+      },
+      {
+        "id": "JQhVutggvvE",
+        "title": "Her Şeyi Yak",
+        "artist": "Duman",
+        "artists": [
+          "Duman"
+        ],
+        "album": "Belki Alışman Lazım",
+        "duration": 271
+      },
+      {
+        "id": "BmF_AERnO5Y",
+        "title": "Böyle Kahpedir Dünya",
+        "artist": "Gripin",
+        "artists": [
+          "Gripin"
+        ],
+        "album": "Gripin",
+        "duration": 263
+      },
+      {
+        "id": "kAdKFXjG2bE",
+        "title": "Kan ve Gül",
+        "artist": "Kıraç",
+        "artists": [
+          "Kıraç"
+        ],
+        "album": "Zaman",
+        "duration": 261
+      },
+      {
+        "id": "rwrwEeXFSRk",
+        "title": "Çemberimde Gül Oya",
+        "artist": "Haluk Levent",
+        "artists": [
+          "Haluk Levent"
+        ],
+        "album": "Yaz Şarkıları",
+        "duration": 168
+      },
+      {
+        "id": "T_cytqcV-6w",
+        "title": "Seni Çılgın",
+        "artist": "Murat Kekilli",
+        "artists": [
+          "Murat Kekilli"
+        ],
+        "album": "Vay Be",
+        "duration": 275
+      },
+      {
+        "id": "niGe1xLaqvg",
+        "title": "Tek Başına",
+        "artist": "Sarp",
+        "artists": [
+          "Sarp"
+        ],
+        "album": "Eski Aşklar",
+        "duration": 268
+      },
+      {
+        "id": "XKIV5gmJHhk",
+        "title": "Çatal Yürek",
+        "artist": "Athena",
+        "artists": [
+          "Athena"
+        ],
+        "album": "Athena",
+        "duration": 240
+      },
+      {
+        "id": "DUk5z09ARcE",
+        "title": "Olduramadım",
+        "artist": "MFÖ",
+        "artists": [
+          "MFÖ"
+        ],
+        "album": "Agu",
+        "duration": 220
+      },
+      {
+        "id": "lUTvQWBlgew",
+        "title": "Saydim",
+        "artist": "Ogün Sanlisoy",
+        "artists": [
+          "Ogün Sanlisoy"
+        ],
+        "album": "O Gun",
+        "duration": 252
+      },
+      {
+        "id": "DABwsC0Acz4",
+        "title": "Endamın Yeter",
+        "artist": "Kıraç",
+        "artists": [
+          "Kıraç"
+        ],
+        "album": "Zaman",
+        "duration": 205
+      },
+      {
+        "id": "MDWUyOcmN3c",
+        "title": "Senden Daha Güzel",
+        "artist": "Duman",
+        "artists": [
+          "Duman"
+        ],
+        "album": "Duman 2",
+        "duration": 240
+      },
+      {
+        "id": "uq5QVOY_wmc",
+        "title": "Hele Bi Gel",
+        "artist": "Pinhani",
+        "artists": [
+          "Pinhani"
+        ],
+        "album": "İnandığın Masallar",
+        "duration": 232
+      },
+      {
+        "id": "znNMXVjHmdU",
+        "title": "Boş Ders Şarkısı",
+        "artist": "Feridun Düzağaç",
+        "artists": [
+          "Feridun Düzağaç"
+        ],
+        "album": "Orjinal Alt Yazılı",
+        "duration": 263
+      },
+      {
+        "id": "luv7rM994Q4",
+        "title": "Haydi Gel İçelim",
+        "artist": "Yüksek Sadakat",
+        "artists": [
+          "Yüksek Sadakat"
+        ],
+        "album": "Katil & Maktül",
+        "duration": 251
+      },
+      {
+        "id": "pdZbDTSiV5o",
+        "title": "Ben Kalender Meşrebim",
+        "artist": "Aylin Aslım",
+        "artists": [
+          "Aylin Aslım"
+        ],
+        "album": "Gülyabani",
+        "duration": 198
+      },
+      {
+        "id": "zlmDb_n3LXg",
+        "title": "Arsız Gönül",
+        "artist": "Athena",
+        "artists": [
+          "Athena"
+        ],
+        "album": "Pis",
+        "duration": 261
+      },
+      {
+        "id": "JPwmu-eKEkc",
+        "title": "Mor Yazma",
+        "artist": "Umut Kaya",
+        "artists": [
+          "Umut Kaya"
+        ],
+        "album": "Umut Kaya",
+        "duration": 200
+      },
+      {
+        "id": "bOGTg4msji0",
+        "title": "Bu Akşam",
+        "artist": "Duman",
+        "artists": [
+          "Duman"
+        ],
+        "album": "Belki Alışman Lazım",
+        "duration": 176
+      },
+      {
+        "id": "EBxDfTiS1nU",
+        "title": "Deli (Eurovision 08)",
+        "artist": "mor ve ötesi",
+        "artists": [
+          "mor ve ötesi"
+        ],
+        "album": "Deli (Eurovision 08)",
+        "duration": 183
+      },
+      {
+        "id": "Cw-mYqvxrBw",
+        "title": "Ben Şarkımı Söylerken",
+        "artist": "Şebnem Ferah",
+        "artists": [
+          "Şebnem Ferah"
+        ],
+        "album": "Kelimeler Yetse",
+        "duration": 262
+      },
+      {
+        "id": "mFi-KT_j51A",
+        "title": "İz Bırakanlar Unutulmaz (feat. Vega)",
+        "artist": "maNga",
+        "artists": [
+          "maNga"
+        ],
+        "album": "maNga +",
+        "duration": 250
+      },
+      {
+        "id": "YlTtUxHit1A",
+        "title": "Dursun Zaman (feat. Göksel)",
+        "artist": "maNga",
+        "artists": [
+          "maNga"
+        ],
+        "album": "maNga +",
+        "duration": 296
+      },
+      {
+        "id": "F7rGz0fHJl0",
+        "title": "Bulaşmayın",
+        "artist": "Ete Kurttekin",
+        "artists": [
+          "Ete Kurttekin"
+        ],
+        "album": "Suyun Üstüne",
+        "duration": 217
+      },
+      {
+        "id": "ia0XDOe7WgM",
+        "title": "Fabrika Kızı",
+        "artist": "Haramiler",
+        "artists": [
+          "Haramiler"
+        ],
+        "album": "Kar Yağıyor Bugün Ankara'ya",
+        "duration": 190
+      },
+      {
+        "id": "3aGiRHbXOrA",
+        "title": "Islak Islak",
+        "artist": "Barış Akarsu",
+        "artists": [
+          "Barış Akarsu"
+        ],
+        "album": "Islak Islak",
+        "duration": 287
+      },
+      {
+        "id": "2RXMFnlOkRE",
+        "title": "Dağlar",
+        "artist": "Haluk Levent",
+        "artists": [
+          "Haluk Levent"
+        ],
+        "album": "Kral Çıplak",
+        "duration": 335
+      },
+      {
+        "id": "ZAUdRHCYI_s",
+        "title": "Sana Mecburum",
+        "artist": "Kıraç",
+        "artists": [
+          "Kıraç"
+        ],
+        "album": "Benim Yolum",
+        "duration": 234
+      },
+      {
+        "id": "gICd6pZKVTc",
+        "title": "Sarı Çizmeli Mehmet Ağa",
+        "artist": "Kurban",
+        "artists": [
+          "Kurban"
+        ],
+        "album": "Sert",
+        "duration": 277
+      },
+      {
+        "id": "vzLZXnwo5JQ",
+        "title": "Anlıyorsun Değil Mi?",
+        "artist": "Teoman",
+        "artists": [
+          "Teoman"
+        ],
+        "album": "Gönülçelen",
+        "duration": 212
+      },
+      {
+        "id": "7TheED7NiOA",
+        "title": "Taş Bebek",
+        "artist": "Göksel, Ferman Akgül & Teoman",
+        "artists": [
+          "Göksel",
+          "Ferman Akgül",
+          "Teoman"
+        ],
+        "album": "Ay'da Yürüdüm",
+        "duration": 211
+      },
+      {
+        "id": "o-Ilfs9l4lg",
+        "title": "Istanbul",
+        "artist": "Pamela",
+        "artists": [
+          "Pamela"
+        ],
+        "album": "Sehir Rehberi",
+        "duration": 253
+      },
+      {
+        "id": "MdnrlAYjf9Q",
+        "title": "Dağları Deldim",
+        "artist": "Özlem Tekin",
+        "artists": [
+          "Özlem Tekin"
+        ],
+        "album": "Tek Başıma",
+        "duration": 182
+      },
+      {
+        "id": "Y5XwoJRSpjQ",
+        "title": "Bir Kadın Çizeceksin",
+        "artist": "maNga",
+        "artists": [
+          "maNga"
+        ],
+        "album": "maNga +",
+        "duration": 240
+      },
+      {
+        "id": "jDsGhoHO364",
+        "title": "Daha Mutlu Olamam",
+        "artist": "mor ve ötesi",
+        "artists": [
+          "mor ve ötesi"
+        ],
+        "album": "Gül Kendine",
+        "duration": 221
+      },
+      {
+        "id": "mLxwgtwgQgo",
+        "title": "Rüzgar Gülü",
+        "artist": "Teoman",
+        "artists": [
+          "Teoman"
+        ],
+        "album": "17",
+        "duration": 201
+      },
+      {
+        "id": "if_jCCyyUcY",
+        "title": "Can Kırıkları",
+        "artist": "Şebnem Ferah",
+        "artists": [
+          "Şebnem Ferah"
+        ],
+        "album": "Can Kırıkları",
+        "duration": 349
+      },
+      {
+        "id": "wH-RqLSZ93w",
+        "title": "Zehr-i Zakkum (feat. Teoman)",
+        "artist": "Zakkum",
+        "artists": [
+          "Zakkum"
+        ],
+        "album": "Zehr-i Zakkum",
+        "duration": 294
+      },
+      {
+        "id": "m_uTHcZ1AvI",
+        "title": "Dün Gece",
+        "artist": "Dört X Dört",
+        "artists": [
+          "Dört X Dört"
+        ],
+        "album": "Hayır",
+        "duration": 255
+      },
+      {
+        "id": "5Kb7Uq0CwNc",
+        "title": "Kahpe",
+        "artist": "Demir Demirkan",
+        "artists": [
+          "Demir Demirkan"
+        ],
+        "album": "2004 Istanbul",
+        "duration": 260
+      },
+      {
+        "id": "w7RL-I5NCac",
+        "title": "Yosma",
+        "artist": "Kurban",
+        "artists": [
+          "Kurban"
+        ],
+        "album": "Sert",
+        "duration": 190
+      },
+      {
+        "id": "bKoUQe1bVus",
+        "title": "Kendimden Geriye",
+        "artist": "Çilekeş",
+        "artists": [
+          "Çilekeş"
+        ],
+        "album": "Y.O.K.",
+        "duration": 236
+      },
+      {
+        "id": "u-bb2rngTzs",
+        "title": "Falan Filan",
+        "artist": "Redd",
+        "artists": [
+          "Redd"
+        ],
+        "album": "Kirli Suyunda Parıltılar",
+        "duration": 208
+      },
+      {
+        "id": "XPqcODjzJDg",
+        "title": "Yalan",
+        "artist": "Kıraç",
+        "artists": [
+          "Kıraç"
+        ],
+        "album": "Kayıp Şehir",
+        "duration": 222
+      },
+      {
+        "id": "50x8eT_skV0",
+        "title": "Deprem",
+        "artist": "Malt",
+        "artists": [
+          "Malt"
+        ],
+        "album": "Kendi Adını Taşıyan İlk Albüm",
+        "duration": 213
+      },
+      {
+        "id": "lpKhXm50ZLY",
+        "title": "Delgeç (10 Mart 2007 İstanbul Konseri)",
+        "artist": "Şebnem Ferah",
+        "artists": [
+          "Şebnem Ferah"
+        ],
+        "album": "10 Mart 2007 İstanbul Konseri",
+        "duration": 272
+      },
+      {
+        "id": "TpfTu5l5EyY",
+        "title": "Cambaz",
+        "artist": "mor ve ötesi",
+        "artists": [
+          "mor ve ötesi"
+        ],
+        "album": "Dünya Yalan Söylüyor",
+        "duration": 231
+      },
+      {
+        "id": "RHAVCsLI0cg",
+        "title": "Özgürce Yaşa",
+        "artist": "Şebnem Ferah, Hayko Cepkin, Badem & TNK",
+        "artists": [
+          "Şebnem Ferah",
+          "Hayko Cepkin",
+          "Badem",
+          "TNK"
+        ],
+        "album": "Özgürce Yaşa",
+        "duration": 255
+      },
+      {
+        "id": "SYwJ-O-Q7NI",
+        "title": "Çok Mu Zor",
+        "artist": "Rashit",
+        "artists": [
+          "Rashit"
+        ],
+        "album": "Adam Olmak İstemiyorum",
+        "duration": 191
+      },
+      {
+        "id": "tN1VY2oHrO0",
+        "title": "Köpek",
+        "artist": "Athena",
+        "artists": [
+          "Athena"
+        ],
+        "album": "İt",
+        "duration": 217
+      },
+      {
+        "id": "I37issyIRww",
+        "title": "Özgürlüğün Ülkesi",
+        "artist": "Duman",
+        "artists": [
+          "Duman"
+        ],
+        "album": "Seni Kendime Sakladım",
+        "duration": 214
+      },
+      {
+        "id": "O0iDSQz94Xo",
+        "title": "Bertaraf Et",
+        "artist": "Hayko Cepkin",
+        "artists": [
+          "Hayko Cepkin"
+        ],
+        "album": "Tanışma Bitti",
+        "duration": 174
+      }
+    ],
+    "Baroque Music | HalidonMusic": [
+      {
+        "id": "CuU9q2VKOyc",
+        "title": "The Best of Baroque Music",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 13927
+      },
+      {
+        "id": "uiTrB-zA7bc",
+        "title": "100 Best of Bach",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 25075
+      },
+      {
+        "id": "xzN6VwiZYMo",
+        "title": "Bach: Cello Collection",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 11347
+      },
+      {
+        "id": "tGA1v6gZj1s",
+        "title": "50 Best of Bach",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 12175
+      },
+      {
+        "id": "SaCheA6Njc4",
+        "title": "Baroque Music - Classical Music from the Baroque Period",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 9235
+      },
+      {
+        "id": "JHW857NQ8vc",
+        "title": "The Best of Vivaldi",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 8864
+      },
+      {
+        "id": "6JQm5aSjX6g",
+        "title": "The Best of Bach",
+        "artist": "Rudolf Baumgartner",
+        "artists": [
+          "Rudolf Baumgartner"
+        ],
+        "album": null,
+        "duration": 6681
+      },
+      {
+        "id": "qnYSx-SQXiI",
+        "title": "Bach & Vivaldi - The Best of Baroque Music",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 13806
+      },
+      {
+        "id": "ApSoNBu2wt8",
+        "title": "Baroque Music Collection - Vivaldi, Bach, Corelli, Telemann...",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 11657
+      },
+      {
+        "id": "5cZvgfeN4rk",
+        "title": "Top 30 Bach | Famous Classical Music Pieces",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 8081
+      },
+      {
+        "id": "jiJ0ybR72mA",
+        "title": "The Best of Handel",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 6934
+      },
+      {
+        "id": "vwNQEfhZhQA",
+        "title": "Vivaldi - The Four Seasons: Summer (Live) | Elli Choi, Orquesta Reino de Aragón, Ricardo Casero",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 646
+      },
+      {
+        "id": "xZYXRfREl8M",
+        "title": "Vivaldi- The Four Seasons: Spring (Live) | Elli Choi, Orquesta Reino de Aragón, Ricardo Casero",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 621
+      },
+      {
+        "id": "b1lLhcbNV6M",
+        "title": "Vivaldi – The Four Seasons: Autumn | Elli Choi, Orquesta Reino de Aragón, Ricardo Casero",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 697
+      },
+      {
+        "id": "Pk5YLN9eUA0",
+        "title": "Vivaldi – The Four Seasons: Winter | Elli Choi, Orquesta Reino de Aragón, Ricardo Casero",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 558
+      },
+      {
+        "id": "zwrsYhrF000",
+        "title": "Alessandro Scarlatti: Responsories for Good Friday | Choral Music, Sacred Classical Music",
+        "artist": "Halidon Classical Stage",
+        "artists": [
+          "Halidon Classical Stage"
+        ],
+        "album": null,
+        "duration": 2356
+      },
+      {
+        "id": "-pbjSEahwYg",
+        "title": "Vivaldi: Concerto for Violin and Cello in B-flat major, RV 547 | Metamorphose String Orchestra",
+        "artist": "Halidon Classical Stage",
+        "artists": [
+          "Halidon Classical Stage"
+        ],
+        "album": null,
+        "duration": 521
+      },
+      {
+        "id": "p4sFAqZ5DgI",
+        "title": "50 Best of Bach",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 11458
+      },
+      {
+        "id": "pkTQewGWS-o",
+        "title": "Johann Sebastian Bach: Prelude and Fugue in D major, BWV 532 | Jean Guillou organ",
+        "artist": "Halidon Classical Stage",
+        "artists": [
+          "Halidon Classical Stage"
+        ],
+        "album": null,
+        "duration": 620
+      },
+      {
+        "id": "Rhc5jXWu55c",
+        "title": "100 Best of Baroque Classical Music",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 22607
+      },
+      {
+        "id": "2DL5YpEobO0",
+        "title": "The Best of Albinoni | Classical Music",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 3681
+      },
+      {
+        "id": "zxAo1JyI418",
+        "title": "Johann Sebastian Bach: French Suite No. 5 in G major, BWV 816: III. Sarabande | Carlo Balzaretti",
+        "artist": "Halidon Classical Stage",
+        "artists": [
+          "Halidon Classical Stage"
+        ],
+        "album": null,
+        "duration": 330
+      },
+      {
+        "id": "grHZkLaFOY8",
+        "title": "The Best of Handel",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 8399
+      },
+      {
+        "id": "sJ1dLbiqrOA",
+        "title": "The Best of Vivaldi",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 7779
+      },
+      {
+        "id": "BjnnUCmNREI",
+        "title": "Baroque Music for Studying & Brain Power",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 4786
+      },
+      {
+        "id": "0F9iJRIal_4",
+        "title": "The Best of Vivaldi",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 10270
+      },
+      {
+        "id": "9V5rXZWdH3Y",
+        "title": "Baroque Music for Studying & Brain Power",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 6158
+      },
+      {
+        "id": "2tduPwBo9uk",
+        "title": "Bach - Piano Collection",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 7720
+      },
+      {
+        "id": "ucNUOPGh5SY",
+        "title": "Baroque Music Collection",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 12558
+      },
+      {
+        "id": "EVhpYlyeyik",
+        "title": "Vivaldi - Greatest Hits",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 5889
+      },
+      {
+        "id": "bXM7arV9KCU",
+        "title": "Classical Music - Baroque Music for Studying & Brain Power",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 9264
+      },
+      {
+        "id": "5XB2P-0ojTw",
+        "title": "Bach and Vivaldi: Cello Collection",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 15812
+      },
+      {
+        "id": "Kh7-1Cz6jAE",
+        "title": "Vivaldi - The Four Seasons (Metamorphose String Orchestra)",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 2281
+      },
+      {
+        "id": "aFATDqU4c78",
+        "title": "Vivaldi - Classical Music for Relaxation",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 4985
+      },
+      {
+        "id": "bYin1p494og",
+        "title": "Classical Music for Brain Power - Baroque",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 7975
+      },
+      {
+        "id": "nHEUBn5OzSg",
+        "title": "The Best of Baroque Classical Music",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 7688
+      },
+      {
+        "id": "xPq7PNH6fBA",
+        "title": "50 Baroque Classical Music Pieces",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 11977
+      },
+      {
+        "id": "cOrKeFUZSJ0",
+        "title": "Bach - Piano Solo",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 1761
+      },
+      {
+        "id": "4rGqazZSbgM",
+        "title": "The Best of Baroque Music",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 7370
+      },
+      {
+        "id": "Oefai-dt4hM",
+        "title": "30 Most Famous Baroque Pieces",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 11860
+      },
+      {
+        "id": "h6DQMV-OrLI",
+        "title": "Happy Bach | Baroque Classical Music",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 6707
+      },
+      {
+        "id": "JqL-760zTTI",
+        "title": "Vivaldi: L'Estro Armonico | 12 Concertos, Op. 3 (Complete)",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 6025
+      },
+      {
+        "id": "y5l8SMyEqGE",
+        "title": "Vivaldi - Violin Concertos and String Symphonies",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 5121
+      },
+      {
+        "id": "OSQmpd2WDx0",
+        "title": "50 Best of Vivaldi | Violin and Flute",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 7800
+      },
+      {
+        "id": "XBdL9HZjl6U",
+        "title": "Bach: Brandenburg Concertos | Orchestra da Camera del Conservatorio di Mantova",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 5670
+      },
+      {
+        "id": "3gmH7VjvadA",
+        "title": "Baroque Music Collection | Bach, Vivaldi, Händel",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 7339
+      },
+      {
+        "id": "JBcqvaob3Gk",
+        "title": "Bach: Keyboard Concertos (Complete) - Stanislav Soloviev, piano",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 6935
+      },
+      {
+        "id": "MWxcRarhxNg",
+        "title": "Vivaldi - Lute and Mandolin | Classical Music",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 3600
+      },
+      {
+        "id": "5MDM9D-3R10",
+        "title": "Viola Concerto in G Major, TWV 51:G9: III. Andante",
+        "artist": "Giovanni Antonioni, Orchestra Sinfonica Warmia & Silvano Frontalini",
+        "artists": [
+          "Giovanni Antonioni",
+          "Orchestra Sinfonica Warmia",
+          "Silvano Frontalini"
+        ],
+        "album": null,
+        "duration": 863
+      },
+      {
+        "id": "0QZtK6DN4bw",
+        "title": "Corelli: Concerto Grosso n° 1, 9, 10 (Kiev Camera Orchestra) | Classical Music",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 1932
+      },
+      {
+        "id": "inkg5IjvRQI",
+        "title": "Relaxing Baroque Music | Bach, Vivaldi, Händel...",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 8706
+      },
+      {
+        "id": "BDjd25dqW1A",
+        "title": "6 Hours Bach for Studying, Concentration, Relaxation",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 22564
+      },
+      {
+        "id": "vEQc78UZrFI",
+        "title": "Best Classical Music from the 17th Century – Corelli and Telemann",
+        "artist": "Kaunas Chamber Orchestra, Kaunas Chamber Chorus & Silvano Frontalini",
+        "artists": [
+          "Kaunas Chamber Orchestra",
+          "Kaunas Chamber Chorus",
+          "Silvano Frontalini"
+        ],
+        "album": null,
+        "duration": 2873
+      },
+      {
+        "id": "drJGSXaFHSU",
+        "title": "Bach - Preludes and Fugues BWV 869 & 894",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 820
+      },
+      {
+        "id": "J34WbaqXEmQ",
+        "title": "Italian Baroque Music | Sacred Music",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 3191
+      },
+      {
+        "id": "48pcTwDNEW4",
+        "title": "Happy Baroque Music - Vivaldi, Bach, Telemann...",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 5056
+      },
+      {
+        "id": "jQSLXXUdxOM",
+        "title": "Bach - Piano Concerto No. 1 (Metamorphose String Orchestra)",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 1379
+      },
+      {
+        "id": "gLVnIt04kvI",
+        "title": "Bach: Complete Piano Concertos",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 6935
+      },
+      {
+        "id": "KW4ooLi1yxE",
+        "title": "Bach - Greatest Hits",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 6544
+      },
+      {
+        "id": "a3OEkJ44n3g",
+        "title": "Bach - The Best of Baroque Music",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 6810
+      },
+      {
+        "id": "wfCiSzb1obI",
+        "title": "The Best of Vivaldi - The Four Seasons and Violin Concertos",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 5513
+      },
+      {
+        "id": "B7dh43mMi1o",
+        "title": "Baroque - Classical Music from the Baroque Era",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 9365
+      },
+      {
+        "id": "tZYnjdTj1qY",
+        "title": "Bach: Goldberg Variations, BWV 988 | Andrea Cantù, piano (complete)",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 4723
+      },
+      {
+        "id": "fS2aT9MLB6U",
+        "title": "Baroque Arias: Vivaldi & Hasse | Ilaria Ribezzi, Autarena Ensemble",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 905
+      },
+      {
+        "id": "YT1UOnJ48RA",
+        "title": "Baroque Piano: Bach, Pachelbel, Scarlatti...",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 7102
+      },
+      {
+        "id": "LmBhBKpF3Jw",
+        "title": "Bach VS Vivaldi - The Best of Baroque Music",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 7892
+      },
+      {
+        "id": "G_sPYQj7uTU",
+        "title": "The Best of Bach",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 7197
+      },
+      {
+        "id": "2gW8Na13jpo",
+        "title": "Baroque Concertos: Bach, Vivaldi, Corelli...",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 6902
+      },
+      {
+        "id": "MzHZpBo7Hek",
+        "title": "Baroque Piano: Bach, Pachelbel, Scarlatti... | Vadim Chaimovich",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 6545
+      },
+      {
+        "id": "ewnsMzomShs",
+        "title": "Bach and Vivaldi - Baroque Music",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 9464
+      },
+      {
+        "id": "9YbRC_pkAqk",
+        "title": "Bach: Piano Solo | Classical Music",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 10025
+      },
+      {
+        "id": "9FepnEMTgHo",
+        "title": "50 Best of Baroque Classical Music",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 10668
+      },
+      {
+        "id": "i8aKrjrDVuA",
+        "title": "Bach and Vivaldi | The Best of Baroque Music",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 8756
+      },
+      {
+        "id": "Ha49WcYRp9o",
+        "title": "Bach - Brandenburg Concerto No. 3: I. Allegro (Live) (Metamorphose String Orchestra)",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 373
+      },
+      {
+        "id": "GvdWp3IjefQ",
+        "title": "Baroque Classics | Bach, Vivaldi, Handel...",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 9832
+      },
+      {
+        "id": "fc9DzB8DcpI",
+        "title": "Bach - Orchestral Suites (Complete) [Orchestra Filarmonica Italiana, Alessandro Arrigoni]",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 6267
+      },
+      {
+        "id": "UFXhwgY7mug",
+        "title": "Baroque Music for Studying & Brain Power",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 16749
+      },
+      {
+        "id": "SlxnmMFFdMM",
+        "title": "Vivaldi: Cello Sonatas | Fulvia Mancini, Massimiliano Martinelli, Yeong-Jeong Müdespacher",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 4883
+      },
+      {
+        "id": "uv46470K2PU",
+        "title": "Corelli | Concerti Grossi, Op. 6 | Christmas Concerto",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 4600
+      },
+      {
+        "id": "23XgvXfTpG8",
+        "title": "Bach: Goldberg Variations | Glenn Gould",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 2317
+      },
+      {
+        "id": "po69OROGAZk",
+        "title": "Bach: Piano Music",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 7908
+      },
+      {
+        "id": "bYzdBEV1xTI",
+        "title": "Italian Baroque Classical Music",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 7310
+      },
+      {
+        "id": "nb46WDrrmg0",
+        "title": "Handel - Music for the Royal Fireworks",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 1112
+      },
+      {
+        "id": "k_owBBd-wyc",
+        "title": "The Best of Baroque Music | Bach, Vivaldi, Handel...",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 7445
+      },
+      {
+        "id": "jV1anP5qN3s",
+        "title": "Vivaldi: Six Flute Concertos, Op. 10 | Alessandro Arrigoni, Orchestra Filarmonica Italiana",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 3083
+      },
+      {
+        "id": "av5D-3K_YeU",
+        "title": "Baroque: Classical Music Masterpieces [Vinyl]",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 2818
+      },
+      {
+        "id": "n8y94LGsssY",
+        "title": "Samson, HWV 57: \"Overture\" (Live)",
+        "artist": "Ricardo Casero & Orquesta Aragón",
+        "artists": [
+          "Ricardo Casero",
+          "Orquesta Aragón"
+        ],
+        "album": null,
+        "duration": 270
+      },
+      {
+        "id": "O6NRLYUThrY",
+        "title": "The Best of Vivaldi",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 3220
+      },
+      {
+        "id": "-deW6GXOuqc",
+        "title": "Classical Music: Baroque Fireworks",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 6689
+      },
+      {
+        "id": "lFO6M2osj6A",
+        "title": "Relaxing Baroque | Classical Music | Bach, Vivaldi, Handel, Albinoni, Scarlatti, Pachelbel",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 9439
+      },
+      {
+        "id": "4_y2yWC71ko",
+        "title": "Bach: Organ Concerto in D minor, BWV 596: IV. Sicilienne | Pierpaola Porqueddu",
+        "artist": "Halidon Classical Stage",
+        "artists": [
+          "Halidon Classical Stage"
+        ],
+        "album": null,
+        "duration": 178
+      },
+      {
+        "id": "tUf1fc0zBlo",
+        "title": "Domenico Scarlatti: Keyboard Sonata in D minor, K. 9 ‘Pastorale' | Angelo Martino",
+        "artist": "Halidon Classical Stage",
+        "artists": [
+          "Halidon Classical Stage"
+        ],
+        "album": null,
+        "duration": 223
+      },
+      {
+        "id": "KuQPZrflljY",
+        "title": "4 Hours of Great Baroque Music | Bach, Handel, Vivaldi, Albinoni, Corelli...",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 15930
+      },
+      {
+        "id": "2T-FU4JH9V4",
+        "title": "50 Best Baroque Piano & Harpsichord Pieces",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 11223
+      },
+      {
+        "id": "sqXyG2acx6c",
+        "title": "Purcell: The Fairy Queen",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 7918
+      },
+      {
+        "id": "UyftAxRQ6zA",
+        "title": "The Best of Monteverdi",
+        "artist": "HALIDONMUSIC",
+        "artists": [
+          "HALIDONMUSIC"
+        ],
+        "album": null,
+        "duration": 8911
+      }
+    ],
+    "Nostalji Hareketli Pop - En İyi Türkçe Nostalji Şarkılar - Odeon Türkiye": [
+      {
+        "id": "Vd2yx2jXiBc",
+        "title": "Ajda Pekkan - Baksana Talihe (Official Audio)",
+        "artist": "Odeon Türkiye",
+        "artists": [
+          "Odeon Türkiye"
+        ],
+        "album": null,
+        "duration": 240
+      },
+      {
+        "id": "1hdjpU8Lbr4",
+        "title": "Cici Kızlar - Delisin (Official Audio)",
+        "artist": "Odeon Türkiye",
+        "artists": [
+          "Odeon Türkiye"
+        ],
+        "album": null,
+        "duration": 182
+      },
+      {
+        "id": "jnpn4ZndLtw",
+        "title": "Füsun Önal - Senden Başka (Official Audio)",
+        "artist": "Odeon Türkiye",
+        "artists": [
+          "Odeon Türkiye"
+        ],
+        "album": null,
+        "duration": 167
+      },
+      {
+        "id": "dWzjPx45pSw",
+        "title": "Olmaz Bu İş Olamaz",
+        "artist": "Semiramis Pekkan",
+        "artists": [
+          "Semiramis Pekkan"
+        ],
+        "album": null,
+        "duration": 175
+      },
+      {
+        "id": "G_RhciVRD0Q",
+        "title": "Tanju Okan - Aşkı Bulacaksın (Official Audio)",
+        "artist": "Odeon Türkiye",
+        "artists": [
+          "Odeon Türkiye"
+        ],
+        "album": null,
+        "duration": 279
+      },
+      {
+        "id": "OpR61xeVLRU",
+        "title": "Los Alcarcon - Gözleri Aşka Gülen (Official Audio)",
+        "artist": "Odeon Türkiye",
+        "artists": [
+          "Odeon Türkiye"
+        ],
+        "album": null,
+        "duration": 181
+      },
+      {
+        "id": "6LJdJ85It1c",
+        "title": "Gönül Turgut - Üzüntüyü Bırak Yaşamaya Bak (Official Audio)",
+        "artist": "Odeon Türkiye",
+        "artists": [
+          "Odeon Türkiye"
+        ],
+        "album": null,
+        "duration": 203
+      },
+      {
+        "id": "dwmasOTQtA4",
+        "title": "İlham Gencer - Bak Bir Varmış Bir Yokmuş (Official Audio)",
+        "artist": "Odeon Türkiye",
+        "artists": [
+          "Odeon Türkiye"
+        ],
+        "album": null,
+        "duration": 141
+      },
+      {
+        "id": "JUhf7uWNb-Y",
+        "title": "Dibi Dibi Da",
+        "artist": "Selçuk Alagöz & Rana Alagöz",
+        "artists": [
+          "Selçuk Alagöz",
+          "Rana Alagöz"
+        ],
+        "album": null,
+        "duration": 182
+      },
+      {
+        "id": "9Shc0VxRVX8",
+        "title": "Kim Ne Derse Desin",
+        "artist": "Ajda Pekkan",
+        "artists": [
+          "Ajda Pekkan"
+        ],
+        "album": null,
+        "duration": 163
+      },
+      {
+        "id": "62tERnxF2zU",
+        "title": "Şenay - Sev Kardeşim (Hayat Bayram Olsa) [Official Audio]",
+        "artist": "Odeon Türkiye",
+        "artists": [
+          "Odeon Türkiye"
+        ],
+        "album": null,
+        "duration": 431
+      },
+      {
+        "id": "kZCvyVhrgnY",
+        "title": "Ajda Pekkan - Haykıracak Nefesim Kalmasa Bile (Official Audio)",
+        "artist": "Odeon Türkiye",
+        "artists": [
+          "Odeon Türkiye"
+        ],
+        "album": null,
+        "duration": 214
+      },
+      {
+        "id": "O8LUJxiAmoE",
+        "title": "Semiramis Pekkan - Dert Ortağım (Official Audio)",
+        "artist": "Odeon Türkiye",
+        "artists": [
+          "Odeon Türkiye"
+        ],
+        "album": null,
+        "duration": 220
+      },
+      {
+        "id": "vMDJeuO6D8k",
+        "title": "Boşvermişim Dünyaya",
+        "artist": "Güneri Tecer",
+        "artists": [
+          "Güneri Tecer"
+        ],
+        "album": null,
+        "duration": 202
+      },
+      {
+        "id": "lYmgio8b_nA",
+        "title": "Rana Alagöz - Her Şey Bitmedi Bitemez (Official Audio)",
+        "artist": "Odeon Türkiye",
+        "artists": [
+          "Odeon Türkiye"
+        ],
+        "album": null,
+        "duration": 185
+      },
+      {
+        "id": "29y_fBPod84",
+        "title": "Melike Demirağ - Hadi Canım Sen de (Official Audio)",
+        "artist": "Odeon Türkiye",
+        "artists": [
+          "Odeon Türkiye"
+        ],
+        "album": null,
+        "duration": 193
+      },
+      {
+        "id": "4tve-EGjdLI",
+        "title": "Hata Bende",
+        "artist": "Gökhan & Süheyl Denizci Ork.",
+        "artists": [
+          "Gökhan",
+          "Süheyl Denizci Ork."
+        ],
+        "album": null,
+        "duration": 180
+      },
+      {
+        "id": "fLaRnGvJ4Ag",
+        "title": "Ajda Pekkan - Bambaşka Biri (Official Audio)",
+        "artist": "Odeon Türkiye",
+        "artists": [
+          "Odeon Türkiye"
+        ],
+        "album": null,
+        "duration": 302
+      },
+      {
+        "id": "4x1nUKwKUS4",
+        "title": "Füsun Önal - Ah Nerede (Official Audio)",
+        "artist": "Odeon Türkiye",
+        "artists": [
+          "Odeon Türkiye"
+        ],
+        "album": null,
+        "duration": 170
+      },
+      {
+        "id": "qUu4keuE6Co",
+        "title": "Fecri Ebcioğlu - Tik Tak (Official Audio)",
+        "artist": "Odeon Türkiye",
+        "artists": [
+          "Odeon Türkiye"
+        ],
+        "album": null,
+        "duration": 199
+      },
+      {
+        "id": "kH9vY4rckmY",
+        "title": "Nilüfer - Oh Ya (Official Audio)",
+        "artist": "Odeon Türkiye",
+        "artists": [
+          "Odeon Türkiye"
+        ],
+        "album": null,
+        "duration": 115
+      },
+      {
+        "id": "MFZxPsnRLIc",
+        "title": "Engin Evin - Ah Dede Vah Dede (Official Audio)",
+        "artist": "Odeon Türkiye",
+        "artists": [
+          "Odeon Türkiye"
+        ],
+        "album": null,
+        "duration": 185
+      },
+      {
+        "id": "o2p_ph-2t4c",
+        "title": "Güller Ve Dudaklar",
+        "artist": "Bora Ayanoğlu",
+        "artists": [
+          "Bora Ayanoğlu"
+        ],
+        "album": null,
+        "duration": 215
+      },
+      {
+        "id": "XaGGiD2bB_E",
+        "title": "Füsun Önal - Bunlar da Geçer (Official Audio)",
+        "artist": "Odeon Türkiye",
+        "artists": [
+          "Odeon Türkiye"
+        ],
+        "album": null,
+        "duration": 198
+      },
+      {
+        "id": "EF1rk3x5ZcE",
+        "title": "Modern Folk Üçlüsü - Ağlamak Geliyor İçimden (Official Audio)",
+        "artist": "Odeon Türkiye",
+        "artists": [
+          "Odeon Türkiye"
+        ],
+        "album": null,
+        "duration": 188
+      },
+      {
+        "id": "GFXhMGebikQ",
+        "title": "Nejat Yavaşoğulları - Yalnız Kalma Bu Dünya'da (Official Audio)",
+        "artist": "Odeon Türkiye",
+        "artists": [
+          "Odeon Türkiye"
+        ],
+        "album": null,
+        "duration": 170
+      },
+      {
+        "id": "QYM-p9z4Mws",
+        "title": "Juanito - Ay Beyaz Deniz Mavi (Official Audio)",
+        "artist": "Odeon Türkiye",
+        "artists": [
+          "Odeon Türkiye"
+        ],
+        "album": null,
+        "duration": 156
+      },
+      {
+        "id": "VgfnQdvJFA8",
+        "title": "Ajda Pekkan - Boş Vermişim Dünyaya (Official Audio)",
+        "artist": "Odeon Türkiye",
+        "artists": [
+          "Odeon Türkiye"
+        ],
+        "album": null,
+        "duration": 205
+      },
+      {
+        "id": "K58loCnQups",
+        "title": "Gözleri Aşka Gülen",
+        "artist": "Nesrin Sipahi",
+        "artists": [
+          "Nesrin Sipahi"
+        ],
+        "album": null,
+        "duration": 223
+      },
+      {
+        "id": "UIbNprY3iHU",
+        "title": "Nilüfer - Dünya Dönüyor (Official Audio)",
+        "artist": "Odeon Türkiye",
+        "artists": [
+          "Odeon Türkiye"
+        ],
+        "album": null,
+        "duration": 216
+      }
+    ],
+    "awesome mix": [
+      {
+        "id": "NrI-UBIB8Jk",
+        "title": "1. Blue Swede - Hooked on a Feeling",
+        "artist": "Joel Gustafsson",
+        "artists": [
+          "Joel Gustafsson"
+        ],
+        "album": null,
+        "duration": 168
+      },
+      {
+        "id": "ULL7apmAJTE",
+        "title": "2. Raspberries - Go All The Way",
+        "artist": "Joel Gustafsson",
+        "artists": [
+          "Joel Gustafsson"
+        ],
+        "album": null,
+        "duration": 199
+      },
+      {
+        "id": "n95A6G9IxlM",
+        "title": "3. Norman Greenbaum - Spirit In The Sky",
+        "artist": "Joel Gustafsson",
+        "artists": [
+          "Joel Gustafsson"
+        ],
+        "album": null,
+        "duration": 238
+      },
+      {
+        "id": "ZEde35UbwUI",
+        "title": "4. David Bowie - Moonage Daydream",
+        "artist": "Joel Gustafsson",
+        "artists": [
+          "Joel Gustafsson"
+        ],
+        "album": null,
+        "duration": 275
+      },
+      {
+        "id": "DyMMEmwFQUE",
+        "title": "5. Elvin Bishop - Fooled Around and Fell in Love",
+        "artist": "Joel Gustafsson",
+        "artists": [
+          "Joel Gustafsson"
+        ],
+        "album": null,
+        "duration": 275
+      },
+      {
+        "id": "OtBHfxU2wmc",
+        "title": "6. 10CC - I'm Not in Love",
+        "artist": "Joel Gustafsson",
+        "artists": [
+          "Joel Gustafsson"
+        ],
+        "album": null,
+        "duration": 361
+      },
+      {
+        "id": "DGDyAb6pePo",
+        "title": "7. Jackson 5 - I Want You Back",
+        "artist": "Joel Gustafsson",
+        "artists": [
+          "Joel Gustafsson"
+        ],
+        "album": null,
+        "duration": 174
+      },
+      {
+        "id": "nkr77jE5GFY",
+        "title": "8. Redbone - Come And Get Your Love",
+        "artist": "Joel Gustafsson",
+        "artists": [],
+        "album": null,
+        "duration": 210
+      },
+      {
+        "id": "WNxKpYOOYvM",
+        "title": "9. The Runaways - Cherry Bomb",
+        "artist": "Joel Gustafsson",
+        "artists": [
+          "Joel Gustafsson"
+        ],
+        "album": null,
+        "duration": 130
+      },
+      {
+        "id": "TazHNpt6OTo",
+        "title": "10. Rupert Holmes - Escape (The Piña Colada Song)",
+        "artist": "Joel Gustafsson",
+        "artists": [
+          "Joel Gustafsson"
+        ],
+        "album": null,
+        "duration": 228
+      },
+      {
+        "id": "kmpU_73CXxU",
+        "title": "11. The Five Stairsteps - O-O-H Child",
+        "artist": "Joel Gustafsson",
+        "artists": [],
+        "album": null,
+        "duration": 195
+      },
+      {
+        "id": "-C_3eYj-pOM",
+        "title": "12. Marvin Gaye & Tammi Terrell - Ain't No Mountain High Enough",
+        "artist": "Joel Gustafsson",
+        "artists": [
+          "Joel Gustafsson"
+        ],
+        "album": null,
+        "duration": 145
+      },
+      {
+        "id": "nv6Ma23ibuU",
+        "title": "13. Bonus: Hooked on a trailer remix",
+        "artist": "Joel Gustafsson",
+        "artists": [
+          "Joel Gustafsson"
+        ],
+        "album": null,
+        "duration": 99
+      },
+      {
+        "id": "3YiIxopZKpY",
+        "title": "Music Video: Baby Groot Dancing to Jackson 5 - I Want You Back",
+        "artist": "Joel Gustafsson",
+        "artists": [
+          "Joel Gustafsson"
+        ],
+        "album": null,
+        "duration": 174
+      }
+    ],
+    "cyberpunk": [
+      {
+        "id": "ct4UkZJ19ls",
+        "title": "“Who's Ready for Tomorrow” by Rat Boy — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 119
+      },
+      {
+        "id": "FRSTaBZfxK4",
+        "title": "“Major Crimes” by HEALTH — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 216
+      },
+      {
+        "id": "M4SINcWu5uA",
+        "title": "“Kevin” by Antigama — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 142
+      },
+      {
+        "id": "GRuixVybZIE",
+        "title": "“Acid Breather” by Mastiff — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 84
+      },
+      {
+        "id": "3ekP561YcbQ",
+        "title": "“Blurred” by Earth Trax — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 154
+      },
+      {
+        "id": "JXRGW4yv8IE",
+        "title": "“Sustain/Decay” by Piotr Maciejewski/Drivealone — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 193
+      },
+      {
+        "id": "XGUy0__LJKw",
+        "title": "“Friday Night Fire Fight” by Aligns — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 217
+      },
+      {
+        "id": "zTpycqGYRRM",
+        "title": "“Retrogenesis” by Private Press — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 334
+      },
+      {
+        "id": "FXk7qopHCMY",
+        "title": "“Lithium” by SLG — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 274
+      },
+      {
+        "id": "Wi17ybKXmXE",
+        "title": "“I Really Want to Stay at Your House” by Rosa Walton (Let’s Eat Grandma) — Cyberpunk: Edgerunners",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 249
+      },
+      {
+        "id": "TGE5SEmib9k",
+        "title": "“I Will Follow” by Snot Abundance — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 162
+      },
+      {
+        "id": "CuvLONbTBPA",
+        "title": "“Me Machine” by Poly — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 222
+      },
+      {
+        "id": "u0LTjvJ6IoI",
+        "title": "“Just Wine (P.A.F.F. remix)” by Diego Cichy Don feat. P.A.F.F — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 201
+      },
+      {
+        "id": "DHKLGwti_OU",
+        "title": "“Nieważne” by Diego Cichy Don feat. Martyna Baranowska — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 163
+      },
+      {
+        "id": "g-CUk4lm52o",
+        "title": "“The Other Room” by Earth Trax — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 257
+      },
+      {
+        "id": "f1KsL8n2jfo",
+        "title": "“On My Way to Hell” by Połoz — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 323
+      },
+      {
+        "id": "UWtrU_uVilQ",
+        "title": "“Nie Pytaj Nas” by Zjednoczenie Soundsystem — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 250
+      },
+      {
+        "id": "3d_u63GHVPg",
+        "title": "“Dom” by Zjednoczenie Soundsystem feat  Damian Syjonfam — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 254
+      },
+      {
+        "id": "YPoGE64hAq0",
+        "title": "“Undertow Velocity” by Private Press — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 347
+      },
+      {
+        "id": "tLVxIEvnVO8",
+        "title": "“The Voice in My Head” by P.T. Adamczyk — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 190
+      },
+      {
+        "id": "BeNN-9-zR9Y",
+        "title": "“Cyberwildlife Park” by Marcin Przybylowicz — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 135
+      },
+      {
+        "id": "kAjCEwCQ7x8",
+        "title": "“Modern Anthill” by Marcin Przybylowicz — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 206
+      },
+      {
+        "id": "hJwftzBJ8wo",
+        "title": "“1101 Break” by Private Press — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 307
+      },
+      {
+        "id": "AtDm9GeBHw4",
+        "title": "“Fuelled by Poison” by Antigama — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 172
+      },
+      {
+        "id": "e28ula0_Ba0",
+        "title": "“Juiced Up” by P.T. Adamczyk — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 129
+      },
+      {
+        "id": "Vkj8zlpyWVw",
+        "title": "“Żurawie” by Ugory — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 404
+      },
+      {
+        "id": "7CK5ni0brMo",
+        "title": "Into the Fire — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 136
+      },
+      {
+        "id": "KP2SA1kR-Zc",
+        "title": "Opening Credits — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 98
+      },
+      {
+        "id": "LGeX4TEVPxE",
+        "title": "Run to the Edge — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 178
+      },
+      {
+        "id": "P9yttaQHS7Y",
+        "title": "This fffire — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 220
+      },
+      {
+        "id": "Rk90HjYX7rY",
+        "title": "Sudden Skirmish — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 103
+      },
+      {
+        "id": "UF6HM2-C9nY",
+        "title": "Whatever It Takes — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 136
+      },
+      {
+        "id": "f1IzGO6d-60",
+        "title": "Let You Down — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 228
+      },
+      {
+        "id": "ggcKt2WtRaA",
+        "title": "Lucky You — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 138
+      },
+      {
+        "id": "kK8XDyMErOc",
+        "title": "Like a Boy — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 126
+      },
+      {
+        "id": "lGlG2zgNLWI",
+        "title": "Cloudy Day — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 307
+      },
+      {
+        "id": "uGu-ZXoyOBM",
+        "title": "Whatever Choom, Like I Give a Shxt — Cyberpunk: Edgerunners [OST]",
+        "artist": "SoundtracksOST",
+        "artists": [
+          "SoundtracksOST"
+        ],
+        "album": null,
+        "duration": 89
+      }
+    ],
+    "omori": [
+      {
+        "id": "9d9e6XmNn9Q",
+        "title": "OMORI OST - 001 Title",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 38
+      },
+      {
+        "id": "wtVHR_1fS5k",
+        "title": "OMORI OST - 002 WHITE SPACE",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 42
+      },
+      {
+        "id": "hLDull8aPDw",
+        "title": "OMORI OST - 003 Lost At A Sleepover",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 57
+      },
+      {
+        "id": "ljAyy-dhAz0",
+        "title": "OMORI OST - 004 Spaces In-between",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 59
+      },
+      {
+        "id": "7GIWV__qx4M",
+        "title": "OMORI OST - 005 By Your Side.",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 97
+      },
+      {
+        "id": "GoWgI1V_WDA",
+        "title": "OMORI OST - 006 Let's Get Together Now!",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 99
+      },
+      {
+        "id": "10rFQMp9cjE",
+        "title": "OMORI OST - 007 100 Sunny",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 78
+      },
+      {
+        "id": "AO4-wj6WLO4",
+        "title": "OMORI OST - 008 Trouble Brewing",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 21
+      },
+      {
+        "id": "tnyNKmndmRg",
+        "title": "OMORI OST - 009 Push & Shove",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 40
+      },
+      {
+        "id": "L1Vuc1-9fh8",
+        "title": "OMORI OST - 010 So, How'd We Do?",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 20
+      },
+      {
+        "id": "_pVm9PozysI",
+        "title": "OMORI OST - 011 It's Okay To Try Again...",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 10
+      },
+      {
+        "id": "n_Dxix0lvDM",
+        "title": "OMORI OST - 012 Trees...",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 119
+      },
+      {
+        "id": "u2xW23u4qEY",
+        "title": "OMORI OST - 013 A Home For Flowers (Tulip)",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 93
+      },
+      {
+        "id": "wMfwS3xsH0s",
+        "title": "OMORI OST - 014 Acrophobia",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 143
+      },
+      {
+        "id": "DWxiVN9eWVY",
+        "title": "OMORI OST - 015 Tussle Among Trees",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 71
+      },
+      {
+        "id": "khr33grtujE",
+        "title": "OMORI OST - 016 A Place By A Lake",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 96
+      },
+      {
+        "id": "0Mbyt-XO8gc",
+        "title": "OMORI OST - 017 Forest Chillin'",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 83
+      },
+      {
+        "id": "LhANeyMTs0w",
+        "title": "OMORI OST - 018 Poems In The Fog",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 110
+      },
+      {
+        "id": "p-E4vGa7z84",
+        "title": "OMORI OST - 019 Space Road 1979",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 94
+      },
+      {
+        "id": "2zha0Yb126o",
+        "title": "OMORI OST - 020 See In Your Fantasy",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 74
+      },
+      {
+        "id": "ZEZRa41ury4",
+        "title": "OMORI OST - 021 Sugar Star Planetarium",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 135
+      },
+      {
+        "id": "b4dbjk2HcYo",
+        "title": "OMORI OST - 022 Lost, Then Found!",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 78
+      },
+      {
+        "id": "9hqWe-Fr4ko",
+        "title": "OMORI OST - 023 THE VENGEANCE OF THOSE FORGOTTEN IN DARKNESS",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 73
+      },
+      {
+        "id": "D3By5lrZ8sM",
+        "title": "OMORI OST - 024 Recycling Is A Concept!",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 16
+      },
+      {
+        "id": "YiDYHPHm6Rg",
+        "title": "OMORI OST - 025 Lovesick - 80,000 Lightyears",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 76
+      },
+      {
+        "id": "jB95To5rlsk",
+        "title": "OMORI OST - 026 I Will Catch Up!",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 103
+      },
+      {
+        "id": "RkQ1cgvkylI",
+        "title": "OMORI OST - 027 Three Bar Logos",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 74
+      },
+      {
+        "id": "4IS59hM58Bs",
+        "title": "OMORI OST - 028 YO DJ PUMP THIS PARTY",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 21
+      },
+      {
+        "id": "XeK_I0XQW6U",
+        "title": "OMORI OST - 029 Good For Health, Bad for Imagination",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 90
+      },
+      {
+        "id": "POLg-0WWXJE",
+        "title": "OMORI OST - 030 Snow Forest - A Single Flower Blooms",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 142
+      },
+      {
+        "id": "_7FGh_1cWT0",
+        "title": "OMORI OST - 031 White Surf Style 6",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 93
+      },
+      {
+        "id": "AKPBblzvbNI",
+        "title": "OMORI OST - 032 Stardust Diving",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 96
+      },
+      {
+        "id": "fhfHb6nwyh0",
+        "title": "OMORI OST - 033 Oh My God.",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 27
+      },
+      {
+        "id": "0IT0kOwFaaE",
+        "title": "OMORI OST - 034 A Rose By Any Other Name...",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 46
+      },
+      {
+        "id": "cqVSlFhUK48",
+        "title": "OMORI OST - 035 Stardust Dusting",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 39
+      },
+      {
+        "id": "OwR9FpEdGPI",
+        "title": "OMORI OST - 036 CHAOS ASSEMBLY",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 66
+      },
+      {
+        "id": "tfSOrLbfR1k",
+        "title": "OMORI OST - 037 The Elegance of the Mysterious and Distant",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 37
+      },
+      {
+        "id": "UWdCGihgiX8",
+        "title": "OMORI OST - 038 Space Boyfriend's Tape - I Want Nothing More",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 30
+      },
+      {
+        "id": "fsCMZQvpxpM",
+        "title": "OMORI OST - 039 Trouble - NEVER/ALWAYS",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 86
+      },
+      {
+        "id": "TyHXvJdyMUo",
+        "title": "OMORI OST - 040 You Were Wrong. Go Back.",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 85
+      },
+      {
+        "id": "ZHGonUUMeO8",
+        "title": "OMORI OST - 041 Such A Time We Had Together",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 51
+      },
+      {
+        "id": "J2bX_B_oU-8",
+        "title": "OMORI OST - 042 Photograph",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 54
+      },
+      {
+        "id": "uF9xZPwaIUY",
+        "title": "OMORI OST - 043 Finding Shapes in the Clouds",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 92
+      },
+      {
+        "id": "DepK5YBmWfA",
+        "title": "OMORI OST - 044 Where We Used To Play",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 105
+      },
+      {
+        "id": "e7JHrEbnH78",
+        "title": "OMORI OST - 045 Bargain Bin Boys",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 62
+      },
+      {
+        "id": "3jF5hK3h0wk",
+        "title": "OMORI OST - 046 Woof",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 32
+      },
+      {
+        "id": "GLjpwNS8sj4",
+        "title": "OMORI OST - 047 Realistic Space Simulation",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 88
+      },
+      {
+        "id": "vqFL-p7AB8U",
+        "title": "OMORI OST - 048 Jash Bash",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 22
+      },
+      {
+        "id": "H5RbFRKKgfA",
+        "title": "OMORI OST - 049 Jash Bash 2: New Age of Heroes",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 13
+      },
+      {
+        "id": "GOQq7e3K20Q",
+        "title": "OMORI OST - 050 Jash Bash 3: Jashpocalypse Infinity",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 29
+      },
+      {
+        "id": "s1pAlPutUZk",
+        "title": "OMORI OST - 051 Clash of Jash",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 18
+      },
+      {
+        "id": "KkgJScQq0Bg",
+        "title": "OMORI OST - 052 Take A Load Off",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 88
+      },
+      {
+        "id": "PzH1RNhS57w",
+        "title": "OMORI OST - 053 I Prefer My Pizza 90% Grease",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 45
+      },
+      {
+        "id": "IU1eOAk2zeY",
+        "title": "OMORI OST - 054 Fresh...ish...",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 102
+      },
+      {
+        "id": "O3jZEHAEIDA",
+        "title": "OMORI OST - 055 High Fructose Headache",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 68
+      },
+      {
+        "id": "uWijf1XXncw",
+        "title": "OMORI OST - 056 I Think My Dad Shops Here",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 96
+      },
+      {
+        "id": "uEzbdsyaNao",
+        "title": "OMORI OST - 057 Just Leave Me Alone",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 43
+      },
+      {
+        "id": "X4sDbcV6R_k",
+        "title": "OMORI OST - 058 Cram It Wad",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 23
+      },
+      {
+        "id": "krY42gTTtYM",
+        "title": "OMORI OST - 059 Respite",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 75
+      },
+      {
+        "id": "8wKWwUzgCE8",
+        "title": "OMORI OST - 060 It Means Everything.",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 74
+      },
+      {
+        "id": "MQYmjpdA_Pw",
+        "title": "OMORI OST - 061 See You Tomorrow",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 139
+      },
+      {
+        "id": "LjyToU14TBM",
+        "title": "OMORI OST - 062 A Home For Flowers (Empty)",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 77
+      },
+      {
+        "id": "SPX1ps4P-_s",
+        "title": "OMORI OST - 063 Help Me",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 40
+      },
+      {
+        "id": "ASrtjconCdc",
+        "title": "OMORI OST - 064 Arachnophobia",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 152
+      },
+      {
+        "id": "IOBWv8Oa7xA",
+        "title": "OMORI OST - 065 Something, Alone",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 37
+      },
+      {
+        "id": "ZDdBZtWIPU0",
+        "title": "OMORI OST - 066 Fade",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 44
+      },
+      {
+        "id": "-fNEOpbZkV4",
+        "title": "OMORI OST - 067 The Heart of the Desert",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 110
+      },
+      {
+        "id": "_46DK9y5J5o",
+        "title": "OMORI OST - 068 Puddles",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 115
+      },
+      {
+        "id": "uEPH9oZ0IKU",
+        "title": "OMORI OST - 069 PRANKED.",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 64
+      },
+      {
+        "id": "4eZgtFTAe60",
+        "title": "OMORI OST - 070 An Archaeic Resonance",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 59
+      },
+      {
+        "id": "B1U_QlT2i1Y",
+        "title": "OMORI OST - 071 'X' Marks The Spot!",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 56
+      },
+      {
+        "id": "y4JRowX8dcQ",
+        "title": "OMORI OST -  072 Those Who Forget History",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 47
+      },
+      {
+        "id": "xKUPLQypXYg",
+        "title": "OMORI OST - 073 Tumbleweeds",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 106
+      },
+      {
+        "id": "QtQubHCy2UI",
+        "title": "OMORI OST - 074 Pyrefly Forest - Cat's Cradle",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 268
+      },
+      {
+        "id": "0IWU-9_BuQw",
+        "title": "OMORI OST - 075 Forest Frenzy",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 130
+      },
+      {
+        "id": "aFwkKTITYKA",
+        "title": "OMORI OST - 076 Sweet Paralysis",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 71
+      },
+      {
+        "id": "FgXOBL1cdIA",
+        "title": "OMORI OST - 077 Sweetheart's Quest for Hearts",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 85
+      },
+      {
+        "id": "Io5-rYQ8TjY",
+        "title": "OMORI OST - 078 How...sad!",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 71
+      },
+      {
+        "id": "z2NNo23Q9do",
+        "title": "OMORI OST - 079 How...tragic!",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 65
+      },
+      {
+        "id": "1jQWgrgDlC4",
+        "title": "OMORI OST - 080 Eternal Dungeon",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 85
+      },
+      {
+        "id": "HLHvRifRS9U",
+        "title": "OMORI OST - 081 Splintered Sweets In The Castle",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 85
+      },
+      {
+        "id": "LXn3FNYzvwo",
+        "title": "OMORI OST - 082 Wandering Rose",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 114
+      },
+      {
+        "id": "uZYl9h5Ji1c",
+        "title": "OMORI OST - 083 Stationary Rose",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 98
+      },
+      {
+        "id": "7nST9wmNGB8",
+        "title": "OMORI OST - 084 Valour Against All Odds",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 55
+      },
+      {
+        "id": "WQTdaPEBjWs",
+        "title": "OMORI OST - 085 I Definitely Promised You A Rose Garden",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 118
+      },
+      {
+        "id": "rlQd9qWKjLM",
+        "title": "OMORI OST - 086 World's End Valentine",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 148
+      },
+      {
+        "id": "DY9lM41h-dg",
+        "title": "OMORI OST - 087 I Just Love The 50s!!!",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 78
+      },
+      {
+        "id": "31jhk_A3mYk",
+        "title": "OMORI OST - 088 Lost Library",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 76
+      },
+      {
+        "id": "uLQcyE4dZi0",
+        "title": "OMORI OST - 089 Bookcase",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 20
+      },
+      {
+        "id": "DbPfICOHzp4",
+        "title": "OMORI OST - 090 Thrifted Tchotchkes",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 90
+      },
+      {
+        "id": "Hww-EBjdKvg",
+        "title": "OMORI OST - 091 Swirly 1000x",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 126
+      },
+      {
+        "id": "t3b52Z2qtfw",
+        "title": "OMORI OST - 092 Dear Little Brother...",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 74
+      },
+      {
+        "id": "lB7Lxd_1TYQ",
+        "title": "OMORI OST - 093 Thalassophobia",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 143
+      },
+      {
+        "id": "bYMsrd5uwNg",
+        "title": "OMORI OST - 094 Water",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 20
+      },
+      {
+        "id": "k5ULcrFTLxA",
+        "title": "OMORI OST - 095 Hanging With The Boys",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 140
+      },
+      {
+        "id": "t815nBXavpE",
+        "title": "OMORI OST - 096 WHITE SPACE",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 62
+      },
+      {
+        "id": "lnu0ygZ4tvk",
+        "title": "OMORI OST - 097 Origin",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 49
+      },
+      {
+        "id": "SJaIn9D5ro4",
+        "title": "OMORI OST - 098 Long Way Down...",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 86
+      },
+      {
+        "id": "J87QEOPza0c",
+        "title": "OMORI OST - 099 The Last Resort",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 101
+      },
+      {
+        "id": "r6E18KHYZE8",
+        "title": "OMORI OST - 100 Not-So-Empty-House",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 55
+      },
+      {
+        "id": "N7Oy1pvobKI",
+        "title": "OMORI OST - 101 It's A Ghost Dance",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 43
+      },
+      {
+        "id": "FRAcLeSg6RY",
+        "title": "OMORI OST - 102 Room for 4",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 96
+      },
+      {
+        "id": "XAUoNdt-0hs",
+        "title": "OMORI OST - 103 Gator Gambol",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 90
+      },
+      {
+        "id": "6MBFHl_E3AU",
+        "title": "OMORI OST - 104 Clams Clams Clams",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 69
+      },
+      {
+        "id": "Cmj8FDbUdF8",
+        "title": "OMORI OST - 105 Jawbreaker",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 86
+      },
+      {
+        "id": "PqQC_gl5k0w",
+        "title": "OMORI OST - 106 GOLDENVENGEANCE",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 150
+      },
+      {
+        "id": "mfUvvgsvKQ8",
+        "title": "OMORI OST - 107 Underwater Highway",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 95
+      },
+      {
+        "id": "6Wg3pWcLmcI",
+        "title": "OMORI OST - 108 Squall",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 84
+      },
+      {
+        "id": "IV_vAW8QfPQ",
+        "title": "OMORI OST - 109 Aquifer",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 226
+      },
+      {
+        "id": "4Q-nIrhdsGY",
+        "title": "OMORI OST - 110 Numbers",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 177
+      },
+      {
+        "id": "Q5_r_ld4vyY",
+        "title": "OMORI OST - 111 Sinking",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 207
+      },
+      {
+        "id": "KszmrMQYYNw",
+        "title": "OMORI OST - 112 H20:HCL",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 119
+      },
+      {
+        "id": "FNrpcJ2Qyl0",
+        "title": "OMORI OST - 113 Chemistry On and On",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 82
+      },
+      {
+        "id": "gAOXXwV7_1o",
+        "title": "OMORI OST - 114 But I Wanna See It All With You!",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 58
+      },
+      {
+        "id": "2iV5ys9JmBs",
+        "title": "OMORI OST - 115 Grimey",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 76
+      },
+      {
+        "id": "7xl5kRE19y4",
+        "title": "OMORI OST - 116 Underwater Prom Queens",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 128
+      },
+      {
+        "id": "z-mru_OwH58",
+        "title": "OMORI OST - 117 Whale Whale Whale",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 75
+      },
+      {
+        "id": "35SmEPcX5hw",
+        "title": "OMORI OST - 118 Swallow Hollow",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 57
+      },
+      {
+        "id": "C2WrhtU-7uo",
+        "title": "OMORI OST - 119 Gross...",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 26
+      },
+      {
+        "id": "oeqt4IPYBdo",
+        "title": "OMORI OST - 120 That One Song But It's Some Mermaids",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 21
+      },
+      {
+        "id": "-vWVAo-qHrc",
+        "title": "OMORI OST - 121 Undertow",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 203
+      },
+      {
+        "id": "POMNynMVTk0",
+        "title": "OMORI OST - 122 WHITE SPACE",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 60
+      },
+      {
+        "id": "Tvcl-_7S6fw",
+        "title": "OMORI OST - 123 Fermentation Disorientation",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 79
+      },
+      {
+        "id": "3YBe5w0gBTo",
+        "title": "OMORI OST - 124 Flouring With You",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 78
+      },
+      {
+        "id": "QL_MA9kQ-0o",
+        "title": "OMORI OST - 125 BREADY STEADY GO",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 126
+      },
+      {
+        "id": "nlIMTln7ZGI",
+        "title": "OMORI OST - 126 Recycling Really Is A Concept",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 85
+      },
+      {
+        "id": "YD7Q2MoR_gY",
+        "title": "OMORI OST - 127 Remember To Be Patient",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 100
+      },
+      {
+        "id": "I5M2H9QjNWk",
+        "title": "OMORI OST - 128 Cold!",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 67
+      },
+      {
+        "id": "Pe---DN2TmY",
+        "title": "OMORI OST - 129 You Cannot Go Back",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 164
+      },
+      {
+        "id": "n9gm9lP_4Gk",
+        "title": "OMORI OST - 130 Tee-hee Time",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 105
+      },
+      {
+        "id": "gAWLivIzTKc",
+        "title": "OMORI OST - 131 Welcome Again.",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 46
+      },
+      {
+        "id": "_1hnWBULqR4",
+        "title": "OMORI OST - 132 Fleur",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 70
+      },
+      {
+        "id": "0PzXw9b40P8",
+        "title": "OMORI OST - 133 Distance",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 39
+      },
+      {
+        "id": "O8tPpbqFwtI",
+        "title": "OMORI OST - 134 Drone",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 34
+      },
+      {
+        "id": "Reo1K7xouBY",
+        "title": "OMORI OST - 135 Calm",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 42
+      },
+      {
+        "id": "8a8Ev1DmWVE",
+        "title": "OMORI OST - 136 Glade",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 60
+      },
+      {
+        "id": "RHraiUG3vFY",
+        "title": "OMORI OST - 137 56-12-2",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 83
+      },
+      {
+        "id": "XNYJ73n5tf4",
+        "title": "OMORI OST - 138 Bloom",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 58
+      },
+      {
+        "id": "OGwi7G59Lfc",
+        "title": "OMORI OST - 139 August/Water",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 104
+      },
+      {
+        "id": "wJ3lnnpJYdc",
+        "title": "OMORI OST - 140 5ths",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 92
+      },
+      {
+        "id": "S0JCCYueIz0",
+        "title": "OMORI OST - 141 Waiting For...",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 41
+      },
+      {
+        "id": "0gkam5PYRbE",
+        "title": "OMORI OST - 142 Nawa",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 96
+      },
+      {
+        "id": "daT8cW5Nv7A",
+        "title": "OMORI OST - 143 White Pillars",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 183
+      },
+      {
+        "id": "OCTYy4I54d8",
+        "title": "OMORI OST - 144 Come and See",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 143
+      },
+      {
+        "id": "FT4cMYqiOng",
+        "title": "OMORI OST - 145 Friends.",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 59
+      },
+      {
+        "id": "Ybn__4TMGYQ",
+        "title": "OMORI OST - 146 Friendsssssss.",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 16
+      },
+      {
+        "id": "g7lfPT4jNQQ",
+        "title": "OMORI OST - 147 Orchard",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 63
+      },
+      {
+        "id": "wiGmzLwTy5o",
+        "title": "OMORI OST - 148 Temple",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 136
+      },
+      {
+        "id": "cxlHRb2JXPg",
+        "title": "OMORI OST - 149 Look",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 48
+      },
+      {
+        "id": "yA9Tz50cx9Q",
+        "title": "OMORI OST - 150 Bad Morning",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 38
+      },
+      {
+        "id": "OWrUZC__Tgc",
+        "title": "OMORI OST - 151 Listening",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 71
+      },
+      {
+        "id": "70UZAJALTzI",
+        "title": "OMORI OST - 152 A Red Shape",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 27
+      },
+      {
+        "id": "Y_iFVNQ_gKo",
+        "title": "OMORI OST - 153 Do You Remember?",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 37
+      },
+      {
+        "id": "M0WsQXD8788",
+        "title": "OMORI OST - 154 Playing Forever",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 104
+      },
+      {
+        "id": "zABWPJlIdkU",
+        "title": "OMORI OST - 155 Treehouse - Here We Are, Together Again",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 79
+      },
+      {
+        "id": "4VzxGrNyl1U",
+        "title": "OMORI OST - 156 Save",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 42
+      },
+      {
+        "id": "8k52DxtnNcA",
+        "title": "OMORI OST - 157 Something",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 91
+      },
+      {
+        "id": "9n6pcfsA3Yo",
+        "title": "OMORI OST - 158 A Home For Flowers (Daisy)",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 80
+      },
+      {
+        "id": "BXgF3zixmd0",
+        "title": "OMORI OST - 159 Remina",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 73
+      },
+      {
+        "id": "WvoeS1mJHqM",
+        "title": "OMORI OST - 160 Normal.",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 37
+      },
+      {
+        "id": "WB5XqJJHzC8",
+        "title": "OMORI OST - 161 Your Catastrophes",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 46
+      },
+      {
+        "id": "6rWV5JRd4zA",
+        "title": "OMORI OST - 162 Your Catastrophes - Procession",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 93
+      },
+      {
+        "id": "5s-1dej9Gsc",
+        "title": "OMORI OST - 163 Crossroads",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 130
+      },
+      {
+        "id": "SwTi6TAEE1A",
+        "title": "OMORI OST - 164 The Violin",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 22
+      },
+      {
+        "id": "v6ofxD4fLms",
+        "title": "OMORI OST - 165 A Home For Flowers (Sunflower)",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 86
+      },
+      {
+        "id": "ewvhlYh9wC0",
+        "title": "OMORI OST - 166 You Must Carry On.",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 105
+      },
+      {
+        "id": "4f1v9u2Jbg8",
+        "title": "OMORI OST - 167 Remembrance.",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 28
+      },
+      {
+        "id": "W766EABGHe8",
+        "title": "OMORI OST - 168 OMORI",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 254
+      },
+      {
+        "id": "bKC8qqqLZ6A",
+        "title": "OMORI OST - 169 OMORI - ALTER",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 87
+      },
+      {
+        "id": "oIyRzl8zVWE",
+        "title": "OMORI OST - 170 Try Again Little Brother",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 18
+      },
+      {
+        "id": "-XqD227D_iw",
+        "title": "OMORI OST - 171 Persevere",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 28
+      },
+      {
+        "id": "ACon4txJiDA",
+        "title": "OMORI OST - 172 DUET",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 133
+      },
+      {
+        "id": "Bv5XwI5O7BQ",
+        "title": "OMORI OST - 173 Gone",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 28
+      },
+      {
+        "id": "VArqmDh2QpY",
+        "title": "OMORI OST - 174 Wake Up",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 37
+      },
+      {
+        "id": "NDLuLmsnpHc",
+        "title": "OMORI OST - 175 Clean Slate",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 60
+      },
+      {
+        "id": "iwFP8www2CY",
+        "title": "OMORI OST - 176 The Truth",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 12
+      },
+      {
+        "id": "1yIcUg5FyIs",
+        "title": "OMORI OST - 177 Good Morning",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 109
+      },
+      {
+        "id": "mzgYj_qCHLg",
+        "title": "OMORI OST - 178 My Time",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 214
+      },
+      {
+        "id": "sAFXxpAvA6o",
+        "title": "OMORI OST - 179 Fin",
+        "artist": "OMOCAT",
+        "artists": [
+          "OMOCAT"
+        ],
+        "album": null,
+        "duration": 23
+      }
+    ],
+    "supernatural": [
+      {
+        "id": "AyMGVzckdCo",
+        "title": "Kansas - Carry On My Wayward Son | Supernatural - The Road So Far",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 324
+      },
+      {
+        "id": "8VIsPSRyuCI",
+        "title": "Seether - Gasoline | Supernatural - 1x01",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 171
+      },
+      {
+        "id": "3NakvCYPXyY",
+        "title": "Classic - What Cha Gonna Do | Supernatural - 1x01",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 157
+      },
+      {
+        "id": "ISY3HCQ6pqc",
+        "title": "Eagles of Death Metal - Speaking in Tongues | Supernatural - 1x01",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 168
+      },
+      {
+        "id": "bce9nbMYmoU",
+        "title": "The AllMan Brothers Band - Ramblin' Man | Supernatural - 1x01",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 281
+      },
+      {
+        "id": "lj5LJZwzG8g",
+        "title": "Foreigner - Hot Blooded | Supernatural - 1x02",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 269
+      },
+      {
+        "id": "Jj2IhpHR2gI",
+        "title": "Rush - Fly By Night | Supernatural - 1x02",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 200
+      },
+      {
+        "id": "G5svONL0HjI",
+        "title": "Black Toast Music - What a Way to Go | Supernatural - 1x03",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 253
+      },
+      {
+        "id": "vF_hxiZPI_c",
+        "title": "RATT - Round and Round | Supernatural - 1x03",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 268
+      },
+      {
+        "id": "eY6FUWzR730",
+        "title": "Nichion Sounds Library - Load Rage | Supernatural - 1x04",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 150
+      },
+      {
+        "id": "yqpQolk636c",
+        "title": "Black Sabbath - Paranoid | Supernatural - 1x04",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 169
+      },
+      {
+        "id": "Oj31Gg3Zv6M",
+        "title": "Rush - Working Man | Supernatural - 1x04",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 432
+      },
+      {
+        "id": "B3U6_C9Tj9o",
+        "title": "Fall Out Boy - Sugar, We're Goin Down | Supernatural - 1x05",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 232
+      },
+      {
+        "id": "XGfTpVjL7U4",
+        "title": "The Rolling Stones - Laugh, I Nearly Died | Supernatural - 1x05",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 298
+      },
+      {
+        "id": "HZ_66xXyL3A",
+        "title": "Iron Butterfly - In-A-Gadda-Da-Vida | Supernatural - 1x06",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 176
+      },
+      {
+        "id": "3RQlszKgP3E",
+        "title": "Lynyrd Skynyrd - Poison Whiskey | Supernatural - 1x06",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 196
+      },
+      {
+        "id": "ZFt2m8vEjiQ",
+        "title": "Free - All Right Now | Supernatural - 1x06",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 228
+      },
+      {
+        "id": "kcnMeRGp7mU",
+        "title": "The Death Riders - Mary | Supernatural - 1x06 (Netflix Version)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 305
+      },
+      {
+        "id": "gH_-92ryNfM",
+        "title": "Paul Richards - U Do 2 Me | Supernatural - 1x07",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 504
+      },
+      {
+        "id": "FDz4A0RlL6Y",
+        "title": "Boston - Peace of Mind | Supernatural - 1x07",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 305
+      },
+      {
+        "id": "KbkgGdiGDiw",
+        "title": "Scorpions - No One Like You | Supernatural - 1x08",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 239
+      },
+      {
+        "id": "-S8FraoEqMk",
+        "title": "Colepitz - Puppet | Supernatural - 1x11",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 218
+      },
+      {
+        "id": "wGicIZ4chks",
+        "title": "Creedence Clearwater Revival - Lodi | Supernatural - 1x11",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 192
+      },
+      {
+        "id": "xsGZcDzQwEM",
+        "title": "Bad Company - Bad Company | Supernatural - 1x11",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 291
+      },
+      {
+        "id": "DJTDp7Bl9QY",
+        "title": "Blue Oyster Cult - Don't Fear the Reaper | Supernatural - 1x12",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 311
+      },
+      {
+        "id": "FKhTcezE0uo",
+        "title": "Bad Company - She Brings Me Love | Supernatural - 1x13",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 283
+      },
+      {
+        "id": "Tz7WagNn6IY",
+        "title": "The Bob Seger System - 2 + 2 = ? | Supernatural - 1x14",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 173
+      },
+      {
+        "id": "udlYyHFerXQ",
+        "title": "Little Charlie & The Nightcats - You Got Your Hooks in Me | Supernatural - 1x16",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 195
+      },
+      {
+        "id": "WLAZvejIY9Q",
+        "title": "Vue - Pictures of Me | Supernatural - 1x16",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 169
+      },
+      {
+        "id": "FhZYD38HWw0",
+        "title": "Blue Oyster Cult - Fire of Unknown Origin | Supernatural - 1x17",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 248
+      },
+      {
+        "id": "pgjoRK9kUds",
+        "title": "Blue Oyster Cult - Burnin' for You | Supernatural - 1x17",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 275
+      },
+      {
+        "id": "Fr7VanJjyII",
+        "title": "Steve Carlton - Night Time | Supernatural - 1x19",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 132
+      },
+      {
+        "id": "CZShhdv_ZjM",
+        "title": "Grand Funk Railroad - Bad Time | Supernatural - 1x19",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 179
+      },
+      {
+        "id": "UYSwYrA8r6c",
+        "title": "Triumph - Fight the Good Fight | Supernatural - 1x22 (The Road So Far)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 393
+      },
+      {
+        "id": "ixK1CJ09QMg",
+        "title": "Joe Walsh - Turn to Stone | Supernatural - 1x22",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 243
+      },
+      {
+        "id": "QVKbySllv4o",
+        "title": "Creedence Clearwater Revival - Bad Moon Rising | Supernatural - 1x22",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 141
+      },
+      {
+        "id": "1JJw_smZGPk",
+        "title": "Ted Nugent - Strangehold | Supernatural - 2x01 (The Road So far)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 504
+      },
+      {
+        "id": "Q2nfMMUDzpk",
+        "title": "The Chambers Brothers - Time Has Come Today | Supernatural - 2x02 (The Road So Far)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 295
+      },
+      {
+        "id": "I76wv5NsIsk",
+        "title": "Journey - Wheel in the Sky | Supernatural - 2x03 (The Road So Far)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 303
+      },
+      {
+        "id": "gpUaXwTvtc8",
+        "title": "REO Speedwagon - Can't Fight This Feeling | Supernatural - 2x05",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 290
+      },
+      {
+        "id": "lrcFlCm4678",
+        "title": "Spinal Tap - Stonehenge | Supernatural - 2x05",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 279
+      },
+      {
+        "id": "qOlSG4lnlKQ",
+        "title": "Foreigner - Cold As Ice | Supernatural - 2x06",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 204
+      },
+      {
+        "id": "rEgh0_JVjNw",
+        "title": "Brian Tichy - Chaos Surrounds You | Supernatural - 2x08",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 215
+      },
+      {
+        "id": "iD2splBQslQ",
+        "title": "Jefferson Airplane - White Rabbit | Supernatural - 2x10",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 155
+      },
+      {
+        "id": "6HMQEHJ9TOI",
+        "title": "Muse - Supermassive Black Hole | Supernatural - 2x10",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 212
+      },
+      {
+        "id": "4z_etBGgTmo",
+        "title": "Styx - Renegade | Supernatural - 2x12",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 255
+      },
+      {
+        "id": "3Iur2RHOOho",
+        "title": "The Doors - The Crystal Ship | Supernatural - 2x14",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 156
+      },
+      {
+        "id": "OTmmYrpuko0",
+        "title": "REO Speedwagon - Back On the Road Again | Supernatural - 2x14",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 340
+      },
+      {
+        "id": "MHgAZoQnBgU",
+        "title": "James Gang - Walk Away | Supernatural - 2x15",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 216
+      },
+      {
+        "id": "8FXmdv-z7aw",
+        "title": "The Animals - House of the Rising Sun | Supernatural - 2x16",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 273
+      },
+      {
+        "id": "S6BEvnnhQ2o",
+        "title": "The Stooges - Down On the Street | Supernatural - 2x17",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 226
+      },
+      {
+        "id": "-4sP_79gW7Q",
+        "title": "Screaming Trees - Look At You | Supernatural - 2x17",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 284
+      },
+      {
+        "id": "P0X2X7zzEpU",
+        "title": "Queensryche - Silent Lucidity | Supernatural - 2x17",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 348
+      },
+      {
+        "id": "6gqWpFRy6lA",
+        "title": "Booker T. & The M.G.'s - Green Onions | Supernatural - 2x19",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 176
+      },
+      {
+        "id": "VIyNNn__gBI",
+        "title": "Alice in Chains - Rooster | Supernatural - 2x19",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 378
+      },
+      {
+        "id": "co8rRGSDYQU",
+        "title": "Joey Ramone - What a Wonderful World | Supernatural - 2x20",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 146
+      },
+      {
+        "id": "uicS-JTmKJ0",
+        "title": "Boston - Foreplay/Long Time | Supernatural - 2x21 (The Road So Far)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 473
+      },
+      {
+        "id": "r2RH46FO8aE",
+        "title": "Boston - Don't Look Back | Supernatural - 2x22",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 361
+      },
+      {
+        "id": "D3GlXsEod0I",
+        "title": "AC/DC - Hells Bells | Supernatural - 3x01 (The Road So Far)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 310
+      },
+      {
+        "id": "OIGJNyom364",
+        "title": "Bachman Turner Overdrive - You Ain't Seen Nothing Yet | Supernatural - 3x01",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 241
+      },
+      {
+        "id": "ep4uyCcidCs",
+        "title": "Bad Company - Crazy Circles | Supernatural - 3x07",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 215
+      },
+      {
+        "id": "xim7NL5z2u8",
+        "title": "Poison - Every Rose Has It's Thorn | Supernatural - 3x09",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 259
+      },
+      {
+        "id": "FZofdk1w0Qk",
+        "title": "ASIA - Heat of the Moment | Supernatural - 3x11",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 233
+      },
+      {
+        "id": "LrJ4nhRTirk",
+        "title": "Huey Lewis & The News - Back in Time | Supernatural - 3x11",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 257
+      },
+      {
+        "id": "jON8PEU5tNc",
+        "title": "Focus - Hocus Pocus | Supernatural - 3x13",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 403
+      },
+      {
+        "id": "__wQSjVFem0",
+        "title": "Bon Jovi - Wanted Dead Or Alive | Supernatural - 3x16",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 310
+      },
+      {
+        "id": "55w3O3JCqH0",
+        "title": "Billy Squier - Lonely is the Night | Supernatural - 4x02 (The Road So Far)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 284
+      },
+      {
+        "id": "2nOK2PW6CPs",
+        "title": "Survivor - Eye of the Tiger | Supernatural - 4x06",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 248
+      },
+      {
+        "id": "oWtHaNTJYCk",
+        "title": "Nine Days - Just as Through With You | Supernatural - 4x07",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 236
+      },
+      {
+        "id": "3S36a9A7xXE",
+        "title": "Bad Company - Ready for Love | Supernatural - 4x10",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 302
+      },
+      {
+        "id": "lqIGm2yNIFA",
+        "title": "Foreigner - Long Long Away from Home | Supernatural - 4x13",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 176
+      },
+      {
+        "id": "sBf37RPpqhc",
+        "title": "The Kinks - A Well Respected Man | Supernatural - 4x17",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 165
+      },
+      {
+        "id": "PSnJZh9knrI",
+        "title": "Norman Greenbaum - Spirit in the Sky | Supernatural - 5x02",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 243
+      },
+      {
+        "id": "xHAONWwHQxM",
+        "title": "Lynyrd Skynyrd - Simple Man | Supernatural - 5x03",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 360
+      },
+      {
+        "id": "0gsRlI1scD4",
+        "title": "The Contours - Do You Love Me | Supernatural - 5x04",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 160
+      },
+      {
+        "id": "rq1VcTNyWlQ",
+        "title": "Beck, Bogert & Appice - Superstition | Supernatural - 5x05",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 260
+      },
+      {
+        "id": "Wxd6vI-hstI",
+        "title": "Anya Marina - Move You | Supernatural - 5x08",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 187
+      },
+      {
+        "id": "0EaathOnZJc",
+        "title": "Robbi Spencer - I Love to See You Happy | Supernatural - 5x08",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 153
+      },
+      {
+        "id": "hLM-hoii50I",
+        "title": "The Who - Won't Get Fooled Again | Supernatural - 5x08",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 515
+      },
+      {
+        "id": "rDyy0RVTLTk",
+        "title": "Hound Dog Taylor - Ain't Git Nobody | Supernatural - 5x09",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 214
+      },
+      {
+        "id": "Q3TnEGD96NY",
+        "title": "Santana - Oye Como Va | Supernatural - 5x10",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 260
+      },
+      {
+        "id": "jz2l09ynMQs",
+        "title": "Sonny Ellis - I Got More Bills Than I Got Pay | Supernatural - 5x12",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 207
+      },
+      {
+        "id": "xuRTMzw0t8g",
+        "title": "Bob Seger - Rock & Roll Never Forgets | Supernatural - 5x12",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 234
+      },
+      {
+        "id": "gKIh9jOfL-E",
+        "title": "Molly Hatchet - The Creeper | Supernatural - 5x13",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 202
+      },
+      {
+        "id": "e8pf64L6di4",
+        "title": "Steve Plunkett - Too Hot to Stop | Supernatural - 5x17",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 177
+      },
+      {
+        "id": "10RzZ9lnf7w",
+        "title": "Jen Titus - O' Death | Supernatural - 5x21",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 126
+      },
+      {
+        "id": "W8bPloUEBDc",
+        "title": "Def Leppard - Rock of Ages | Supernatural - 5x22",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 248
+      },
+      {
+        "id": "YzP-RZTSEdA",
+        "title": "Bob Seger - Beautiful Loser | Supernatural - 6x01 (The Road So Far)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 210
+      },
+      {
+        "id": "QZ7VUFuGfiU",
+        "title": "Deep Purple - Smoke on the Water | Supernatural - 6x02",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 342
+      },
+      {
+        "id": "He8fbjCoDCk",
+        "title": "Kenny Rogers - The Gambler | Supernatural - 6x04",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 214
+      },
+      {
+        "id": "oAUZiM3lYHs",
+        "title": "David Bowie - Space Oddity | Supernatural - 6x09",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 311
+      },
+      {
+        "id": "lwTFPQA0kyM",
+        "title": "Aerosmith - Back in the Saddle | Supernatural - 6x12 (The Road So Far)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 283
+      },
+      {
+        "id": "tM9HXlEZJaU",
+        "title": "Jethro Tull - A New Day Yesterday | Supernatural - 6x12",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 251
+      },
+      {
+        "id": "CfxnZ0ZUNgA",
+        "title": "Nazareth - Love Hurts | Supernatural - 6x14",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 235
+      },
+      {
+        "id": "97W37N9gFpw",
+        "title": "Blondie - One Way or Another | Supernatural - 6x17",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 208
+      },
+      {
+        "id": "Ew3Z5durepA",
+        "title": "Céline Dion - My Heart Will Go On | Supernatural - 6x17",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 283
+      },
+      {
+        "id": "sfVc4O_EBkM",
+        "title": "Hot Chocolate - You Sexy Thing | Supernatural - 6x19",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 248
+      },
+      {
+        "id": "FQXP8juQNso",
+        "title": "Jefferson Starships - Miracles | Supernatural - 6x19",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 416
+      },
+      {
+        "id": "tERcsDyw8sY",
+        "title": "Scars On 45 - Loudest Alarm | Supernatural - 6x21",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 233
+      },
+      {
+        "id": "yD9c0NheZmo",
+        "title": "The Undisputed Truth - Smiling Faces Somethimes | Supernatural - 6x21",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 200
+      },
+      {
+        "id": "05xajcb3g-E",
+        "title": "Foghat - Slow Ride | Supernatural - 7x01 (The Road So Far)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 240
+      },
+      {
+        "id": "4WGJ1XO_mpc",
+        "title": "Nancy Sinatra - These Boots Are Made for Walkin' | Supernatural - 7x01",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 167
+      },
+      {
+        "id": "L5rTKJZ8GmA",
+        "title": "The Doobie Brothers - Black Water | Supernatural - 7x02",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 260
+      },
+      {
+        "id": "radwhMdiwAw",
+        "title": "The Goo Goo Dolls - Two Days in February | Supernatural - 7x03",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 187
+      },
+      {
+        "id": "w5Id-R657k0",
+        "title": "Lynyrd Skynyrd - Down South Jukin' | Supernatural - 7x04",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 137
+      },
+      {
+        "id": "uuOPxya0gcA",
+        "title": "Air Supply - I'm All Out of Love | Supernatural - 7x06",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 244
+      },
+      {
+        "id": "gimeAtrtaAY",
+        "title": "Reo Speedwagon - Ridin' the Storm Out | Supernatural - 7x11 (The Road So Far)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 339
+      },
+      {
+        "id": "scwxpdtT0fA",
+        "title": "TRAFFIC - Dear Mr. Fantasy | Supernatural - 7x11",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 337
+      },
+      {
+        "id": "GgoCThRHNxU",
+        "title": "The Everly Brothers - Wake Up Little Susie | Supernatural - 7x17",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 122
+      },
+      {
+        "id": "hElm8oCl128",
+        "title": "The Yardbirds - Turn Into Earth | Supernatural - 7x17",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 188
+      },
+      {
+        "id": "czic7yNLiRM",
+        "title": "Bell Biv DeVoe - Poison | Supernatural - 7x18",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 265
+      },
+      {
+        "id": "F1NA0dm647w",
+        "title": "Katrina & the Waves - Walking on Sunshine | Supernatural - 7x20",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 240
+      },
+      {
+        "id": "6suZa6wYB74",
+        "title": "War - Why Can't We Be Friends | Supernatural - 7x22",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 229
+      },
+      {
+        "id": "9OZdIMwJpFI",
+        "title": "Steppenwolf - Born to Be Wild | Supernatural - 7x23",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 213
+      },
+      {
+        "id": "hnaILtwIi60",
+        "title": "Jethro Tull - Locomotive Breath | Supernatural - 8x01 (The Road So Far)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 192
+      },
+      {
+        "id": "aBfLuD-jMHY",
+        "title": "Styx - Man in the Wilderness | Supernatural - 8x01",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 348
+      },
+      {
+        "id": "auCm7ku6dbM",
+        "title": "The Reverend Horton Heat - The Devil's Chasing Me | Supernatural - 8x02",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 321
+      },
+      {
+        "id": "gyytzpj0r7Y",
+        "title": "Milo Greene - What's the Matter? | Supernatural - 8x04",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 255
+      },
+      {
+        "id": "DQoBn9zX0Fw",
+        "title": "Soundgarden - Fell On Black Days | Supernatural - 8x06",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 284
+      },
+      {
+        "id": "FL1RpDF93bg",
+        "title": "Steve Earle - I Feel Alright | Supernatural - 8x09",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 179
+      },
+      {
+        "id": "WvMlWKn4fjs",
+        "title": "Sonoton Music - That Old Familiar Pain | Supernatural - 8x09",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 189
+      },
+      {
+        "id": "VMhqBCg0oic",
+        "title": "Bob Seger - Katmandu | Supernatural - 8x10 (The Road So Far)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 369
+      },
+      {
+        "id": "O3z8JYlawuI",
+        "title": "The Doobie Brothers - China Grove | Supernatural - 8x11",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 197
+      },
+      {
+        "id": "jz4jwqv29jg",
+        "title": "Frankie Laine - On the Sunny Side of the Street | Supernatural - 8x13",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 169
+      },
+      {
+        "id": "wV-fHJSjT3E",
+        "title": "The Rubens - I'll Surely Die | Supernatural - 8x18",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 227
+      },
+      {
+        "id": "06xYPHE2Vqo",
+        "title": "George Thorogood & the Destroyers - Who Do You Love? | Supernatural - 9x01 (The Road So Far)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 262
+      },
+      {
+        "id": "22BPB7UmFc0",
+        "title": "The Doobie Brothers - Rockin' Down the Highway | Supernatural - 9x02",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 203
+      },
+      {
+        "id": "3eDip5aN41s",
+        "title": "Foreigner - I Want to Know What Love Is | Supernatural - 9x05",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 295
+      },
+      {
+        "id": "YU1U3Ubmh8Y",
+        "title": "Journey - Stone in Love | Supernatural - 9x07",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 269
+      },
+      {
+        "id": "W07O8_SHgdk",
+        "title": "Social Distortion - Bad Luck | Supernatural - 9x09",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 265
+      },
+      {
+        "id": "wLEptu1d5G0",
+        "title": "The Wind and The Wave - This House is a Hotel | Supernatural - 9x15",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 214
+      },
+      {
+        "id": "uMi9jNFGpXY",
+        "title": "The Velvet Underground - Heroin | Supernatural - 9x16",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 435
+      },
+      {
+        "id": "buLuz1lQy-E",
+        "title": "Frankie Valli - The Sun Ain't Gonna Shine | Supernatural - 9x18",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 214
+      },
+      {
+        "id": "91c3By6xh3g",
+        "title": "The Ozark Mountain Daredevils - If You Wanna Get to Heaven | Supernatural - 9x19",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 188
+      },
+      {
+        "id": "e9KbodntmmU",
+        "title": "Blind Faith - Can't Find My Way Home | Supernatural - 9x23",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 200
+      },
+      {
+        "id": "YUM05h96OmQ",
+        "title": "Cousin Harley - 4 Wheels 9 Lives | Supernatural - Season 9 Gag Reel Music",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 152
+      },
+      {
+        "id": "WCie8GIr0DU",
+        "title": "Royal Blood - Figure It Out | Supernatural | Season 10 Promo Music",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 187
+      },
+      {
+        "id": "nnq8tLKdp4c",
+        "title": "Pat Benatar - Heartbreaker | Supernatural - 10x01 (The Road So Far)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 210
+      },
+      {
+        "id": "iX8mNso8mbw",
+        "title": "Right Said Fred - I'm Too Sexy | Supernatural - 10x01",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 174
+      },
+      {
+        "id": "XkBF0iCTBX4",
+        "title": "BONJAH - Honey | Supernatural - 10x01",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 195
+      },
+      {
+        "id": "v9uSvyQxpyI",
+        "title": "Atlanta Rhythm Section - Imaginary Lover | Supernatural - 10x01",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 308
+      },
+      {
+        "id": "-4PK7O3QTYE",
+        "title": "Warrant - Cherry Pie | Supernatural - 10x02",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 202
+      },
+      {
+        "id": "bTFEJo2tmtk",
+        "title": "The Road So Far | Supernatural - 10x05",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 125
+      },
+      {
+        "id": "dR-v6uYVVuA",
+        "title": "A Single Man Tear | Supernatural - 10x05",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 127
+      },
+      {
+        "id": "8rROAYkO_PI",
+        "title": "A Single Man Tear (Version 2) | Supernatural - 10x05",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 126
+      },
+      {
+        "id": "qOLokbKWmW0",
+        "title": "I'll Just Wait Here Then | Supernatural - 10x05",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 60
+      },
+      {
+        "id": "yUJnYDyXNyY",
+        "title": "Carry On My Wayward Son | Supernatural - 10x05",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 109
+      },
+      {
+        "id": "F0xGx8URjjs",
+        "title": "Bob Seger - Travelin' Man | Supernatural - 10x06",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 162
+      },
+      {
+        "id": "2K8Nuf09RSs",
+        "title": "Jim Wolfe - All I Know | Supernatural - 10x08",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 171
+      },
+      {
+        "id": "vq5sIgthCpg",
+        "title": "The Band - The Weight | Supernatural - 10x08",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 278
+      },
+      {
+        "id": "2CLlARgPuXg",
+        "title": "Electric Light Orchesta - Long Black Road | Supernatural - 10x10 (The Road So Far)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 203
+      },
+      {
+        "id": "v__iiaZbUwc",
+        "title": "James Gang - Ashes The Rain and I | Supernatural - 10x12",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 301
+      },
+      {
+        "id": "SFaNyaG4p3Y",
+        "title": "Headwater - Only a Matter of Time | Supernatural - 10x12",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 266
+      },
+      {
+        "id": "UlIM7L0m49s",
+        "title": "Taylor Swift - Shake It Off | Supernatural - 10x12",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 232
+      },
+      {
+        "id": "2nE136VdfAE",
+        "title": "The Avett Brothers - Head Full Of Doubt/Road Full Of Promise | Supernatural - 10x13",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 265
+      },
+      {
+        "id": "edyssJCFy-c",
+        "title": "Paul Lenart - Shakin' the Blues | Supernatural - 10x17",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 167
+      },
+      {
+        "id": "Qu3nZerxVYE",
+        "title": "Thin Lizzy - The Boys Are Back in Town | Supernatural - 10x18",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 270
+      },
+      {
+        "id": "6OKRXruQqu8",
+        "title": "The Who - Behind Blue Eyes | Supernatural - 10x18",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 224
+      },
+      {
+        "id": "IBzLmdTShrA",
+        "title": "Todd Rundgren - I Saw the Light | Supernatural - 10x19",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 182
+      },
+      {
+        "id": "Ju7nRjkVkhs",
+        "title": "Willie Nelson - Blue Eyes Crying in the Rain | Supernatural - 10x20",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 142
+      },
+      {
+        "id": "hp5ZgPrMfjo",
+        "title": "Patty Griffin - Go Wherever You Wanna Go | Supernatural - 10x22",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 230
+      },
+      {
+        "id": "q0pqSqMAKvc",
+        "title": "FOALS - What Went Down | Supernatural | Season 11 - Promo Music",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 302
+      },
+      {
+        "id": "QIfTc6maXhM",
+        "title": "Creedence Clearwater Revival - Run Through the Jungle | Supernatural - 11x01 (The Road So Far)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 188
+      },
+      {
+        "id": "k3Jf21kYRVc",
+        "title": "Tom Jones - It's Not Unusual | Supernatural - 11x01",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 123
+      },
+      {
+        "id": "aXFbLwflU48",
+        "title": "Melergy - Who | Supernatural - 11x02",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 95
+      },
+      {
+        "id": "Dnsza87w5go",
+        "title": "Bread - Guitar Man | Supernatural - 11x04",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 231
+      },
+      {
+        "id": "UTjs9nhz17k",
+        "title": "Big Jack Johnson - I Wanna Know | Supernatural - 11x04",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 213
+      },
+      {
+        "id": "dq2jwAtMmqA",
+        "title": "Bob Seger - Night Moves | Supernatural - 11x04",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 327
+      },
+      {
+        "id": "OFa3afADvXs",
+        "title": "Judy Collins - Someday Soon | Supernatural - 11x04",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 234
+      },
+      {
+        "id": "1ms3rX5e4gs",
+        "title": "M.I.A. - Bad Girls | Supernatural - 11x04",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 232
+      },
+      {
+        "id": "7zEf_Gr9k4c",
+        "title": "Urge Overkill - Girl You'll Be a Woman Soon | Supernatural - 11x06",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 193
+      },
+      {
+        "id": "NakIDn1_oGc",
+        "title": "Five Finger Death Punch - Hell to Pay | Supernatural - 11x07",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 191
+      },
+      {
+        "id": "38T5MllgftA",
+        "title": "Wishbone Ash - Changing Tracks | Supernatural - 11x10 (The Road So Far)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 259
+      },
+      {
+        "id": "YZXmj1mqoO4",
+        "title": "Hal David & John Cacavas - Has Anybody Seen Kris Kringle? | Supernatural - 11x10",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 177
+      },
+      {
+        "id": "pImlE_rINyw",
+        "title": "Tavares - Heaven Must Be Missing an Angel | Supernatural - 11x10",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 393
+      },
+      {
+        "id": "wL15f3SrBh0",
+        "title": "The Shirelles - Will You Love Me Tomorrow? | Supernatural - 11x11",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 171
+      },
+      {
+        "id": "g4XS6Nr5eE0",
+        "title": "Johnny Mathis - Wonderful! Wonderful! | Supernatural - 11x11",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 171
+      },
+      {
+        "id": "Grt0qJbqIvU",
+        "title": "Warren Zevon - Prison Grove | Supernatural - 11x11",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 292
+      },
+      {
+        "id": "vyI_Trxaevs",
+        "title": "Leon Bridges - Shine | Supernatural - 11x12",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 221
+      },
+      {
+        "id": "JY5mSwX_f8s",
+        "title": "The James Hunter Six - Heartbreak | Supernatural - 11x13",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 266
+      },
+      {
+        "id": "KDm2IpGtgSg",
+        "title": "Edith Piaf - Non, je ne regrette rien | Supernatural - 11x14",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 145
+      },
+      {
+        "id": "_6MncOnf0rc",
+        "title": "Orchestra Edmundo Ros - Brazil | Supernatural - 11x15",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 149
+      },
+      {
+        "id": "2PPGbKl_aZ4",
+        "title": "Tesla - Modern Day Cowboy | Supernatural - 11x15",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 321
+      },
+      {
+        "id": "psMQMxuQ4qk",
+        "title": "The Allman Brothers Band - Midnight Rider | Supernatural - 11x16",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 179
+      },
+      {
+        "id": "tSFJFbA83Ao",
+        "title": "Brian Wilson - Good Vibrations | Supernatural - 11x20",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 279
+      },
+      {
+        "id": "RIVDXTvIP3U",
+        "title": "B.B. King - Don't Answer the Door | Supernatural - 11x20",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 313
+      },
+      {
+        "id": "NrKCUiWZSpk",
+        "title": "Rob Benedict - Fare Thee Well | Supernatural - 11x20",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 141
+      },
+      {
+        "id": "MkVJ7OgaoVY",
+        "title": "Trini Lopez - Crooked Little Man | Supernatural - 11x21",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 150
+      },
+      {
+        "id": "2fNSdskzIss",
+        "title": "Robin Trower - Day of the Eagle | Supernatural - 11x22",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 306
+      },
+      {
+        "id": "redZuR-Slck",
+        "title": "Gerry & the Pacemakers - Don't Let the Sun Catch You Crying | Supernatural - 11x23",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 158
+      },
+      {
+        "id": "MoOAU9MjOOg",
+        "title": "April Wine - Bad Boys | Supernatural - 12x01 (The Road So Far)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 193
+      },
+      {
+        "id": "m8mrF8R41MM",
+        "title": "The Little Willies - Diesel Smoke, Dangerous Curves | Supernatural - 12x01",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 186
+      },
+      {
+        "id": "myI3pIrv0g0",
+        "title": "Black Sabbath - Solitude | Supernatural - 12x01",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 305
+      },
+      {
+        "id": "ZcVbS8sOSiw",
+        "title": "Heart - Lost Angel | Supernatural - 12x02",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 417
+      },
+      {
+        "id": "nrcTTNzHSmU",
+        "title": "Bachman Turner Overdrive - Roll On Down the Highway | Supernatural - 12x06",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 239
+      },
+      {
+        "id": "b35WBKkPZ_k",
+        "title": "Alice in Chains - Man in the Box | Supernatural - 12x06",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 290
+      },
+      {
+        "id": "LrXG7qc8mn0",
+        "title": "Dave Brubeck - Take Five | Supernatural - 12x08",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 328
+      },
+      {
+        "id": "G85WniR6KG4",
+        "title": "Bobby Goldsboro - Broomstick Cowboy | Supernatural - 12x11",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 154
+      },
+      {
+        "id": "FDI2P7qUPB0",
+        "title": "Gene McDaniels - Walk With a Winner | Supernatural - 12x12",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 179
+      },
+      {
+        "id": "yb9nGNqDGyE",
+        "title": "Bobby Darin - Not for Me | Supernatural - 12x12",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 143
+      },
+      {
+        "id": "OOO_k1KfPNs",
+        "title": "Robin Loxley & Jay Hawke - Crop Won't Ever Come | Supernatural - 12x12",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 234
+      },
+      {
+        "id": "4fMPu2kfNzE",
+        "title": "The Rolling Stones - Play With Fire | Supernatural - 12x13",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 137
+      },
+      {
+        "id": "rDyKJ3poBN0",
+        "title": "The Pretty Reckless - Make Me Wanna Die | Supernatural - 12x16",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 229
+      },
+      {
+        "id": "bkSrb8VgEmw",
+        "title": "Joan Jett & The Blackhearts - Real Wild Child | Supernatural - 12x16",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 98
+      },
+      {
+        "id": "vK42UP4If-U",
+        "title": "Bongzilla - Prohibition | Supernatural - 12x18",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 251
+      },
+      {
+        "id": "9rWqBSc6nu8",
+        "title": "Charley Pride - Burguers and Fries | Supernatural - 12x18",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 194
+      },
+      {
+        "id": "Z6OYKe9HrtQ",
+        "title": "Metallica - Nothing Else Matters | Supernatural - 13x01 (The Road So Far)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 391
+      },
+      {
+        "id": "clxJiZJ7Fl0",
+        "title": "The Rolling Stones - Rip This Joint | Supernatural - 13x03",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 148
+      },
+      {
+        "id": "_X6L5UJnQtg",
+        "title": "Steppenwolf - It's Never Too Late | Supernatural - 13x05",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 247
+      },
+      {
+        "id": "EqqxLjDJdww",
+        "title": "Steve Miller Band - Space Cowboy | Supernatural - 13x06",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 298
+      },
+      {
+        "id": "95CxAh-QMvo",
+        "title": "Messer Chups - They Call Me Zombie | Supernatural - 13x06",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 183
+      },
+      {
+        "id": "-_in-8nu8c4",
+        "title": "Halestorm - I Am the Fire | Supernatural - 13x10 (The Road So Far)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 221
+      },
+      {
+        "id": "_3R0gs749cM",
+        "title": "The Chantels - Look in My Eyes | Supernatural - 13x11",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 141
+      },
+      {
+        "id": "NCKJr7TR38U",
+        "title": "Doris Wilson - Big Flame (Is Gonna Break My Heart in Two) | Supernatural - 13x11",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 159
+      },
+      {
+        "id": "Xp1uQMuNq3Q",
+        "title": "Harry Chapin - Cat's in the Cradle | Supernatural - 13x21",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 230
+      },
+      {
+        "id": "q5I_G3UhI8c",
+        "title": "Bee Gees - Staying Alive | Supernatural - 14x06",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 246
+      },
+      {
+        "id": "ej2AH4U4L5s",
+        "title": "Marty Robbins - I'll Go On Alone | Supernatural - 14x06",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 163
+      },
+      {
+        "id": "2dOxyRwfceo",
+        "title": "Bachman Turner Overdrive - Let It Drive | Supernatural - 14x07",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 267
+      },
+      {
+        "id": "fUzTFlMl8xw",
+        "title": "Allman Brothers Band - Please Call Home | Supernatural - 14x08",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 244
+      },
+      {
+        "id": "nZTWAae9tn4",
+        "title": "Brenda Lee - Rockin' Around the Christmas Tree | Supernatural - 14x09",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 126
+      },
+      {
+        "id": "nZd3g6DJuUk",
+        "title": "The Marshall Tucker Band - Searchin for a Rainbow | Supernatural - 14x10",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 231
+      },
+      {
+        "id": "7XfFlbLEEb0",
+        "title": "The Guess Who - No Time | Supernatural - 14x11",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 228
+      },
+      {
+        "id": "UsVittmYY5A",
+        "title": "All Good Things - Search and Destroy | Supernatural - 14x12",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 250
+      },
+      {
+        "id": "-m2FTqdkpgY",
+        "title": "Bob Seger - Till It Shines | Supernatural - 14x13",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 236
+      },
+      {
+        "id": "jF5Z2bdAMKY",
+        "title": "Slim Whitman - We Live in Two Different Worlds | Supernatural - 14x15",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 132
+      },
+      {
+        "id": "TGk_zJGlJ6A",
+        "title": "Blues Saraceno - The Devil You Know | Supernatural - 14x16",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 217
+      },
+      {
+        "id": "TLdzk7lv0X0",
+        "title": "B.J. Thomas - Raindrops Keep Falling On My Head | Supernatural - 14x17",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 150
+      },
+      {
+        "id": "RQn_mmtCFwU",
+        "title": "Motorhead - God Was Never On Your Side | Supernatural - 14x20",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 264
+      },
+      {
+        "id": "viLt2i3_pwI",
+        "title": "Raphael Lake & Royal Baggs - Devil's Gonna Come | Supernatural - ''Final Season'' Promo Music",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 207
+      },
+      {
+        "id": "m6kSbKOI2ak",
+        "title": "Blakwall - Knockin' On Heaven's Door | Supernatural - ''Believe'' Trailer Music",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 245
+      },
+      {
+        "id": "sG4aytQxtdU",
+        "title": "Bob Seger - The Famous Final Scene | Supernatural - 15x01 (The Road So Far)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 312
+      },
+      {
+        "id": "YNjIgJN7CdI",
+        "title": "Lon Rogers & the Soul Blenders - Too Good to Be True | Supernatural - 15x01",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 128
+      },
+      {
+        "id": "fM5fr2neiI4",
+        "title": "Radio Company - Sounds of Someday | Supernatural - 15x04",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 252
+      },
+      {
+        "id": "XAKyoaEuxFw",
+        "title": "Cobra Ramone - So Quiet | Supernatural - 15x06",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 199
+      },
+      {
+        "id": "LILkG-O4B-A",
+        "title": "Christian Kane - The House Rules | Supernatural - 15x07",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 221
+      },
+      {
+        "id": "so0pFtU_1ZI",
+        "title": "Henry Ford - Take Me for What I Am | Supernatural - 15x08",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 183
+      },
+      {
+        "id": "cZMbmVlbNRw",
+        "title": "Dick Jr. & The Volunteers - Goin' Straight | Supernatural - 15x08",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 188
+      },
+      {
+        "id": "mUzy3jkTQoI",
+        "title": "Omar & The Howlers - Hard Times in the Land of Plenty | Supernatural - 15x09 (The Road So Far)",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 239
+      },
+      {
+        "id": "hpeldGva2eE",
+        "title": "Irving Aaronson and His Commanders - Let's Misbehave | Supernatural - 15x10",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 173
+      },
+      {
+        "id": "4NBkB5cyMOM",
+        "title": "Warren Zevon - Werewolves of London | Supernatural - 15x10",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 205
+      },
+      {
+        "id": "giBygcDEvVQ",
+        "title": "Johnny Horton - North to Alaska | Supernatural - 15x11",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 170
+      },
+      {
+        "id": "_YTdNlYbAOU",
+        "title": "The Biggest Band in the World - Automatic | Supernatural - 15x13",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 181
+      },
+      {
+        "id": "rCy8HTS-QAE",
+        "title": "Savage Garden - I Want You | Supernatural - 15x13",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 235
+      },
+      {
+        "id": "QcuKdTdr3fw",
+        "title": "Wershly Arms - Trouble | Supernatural - ''Trouble'' Trailer Music",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 188
+      },
+      {
+        "id": "1T1fScT-em8",
+        "title": "The Bus Boys - Cleanin' Up the Town | Supernatural - 15x14",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 181
+      },
+      {
+        "id": "Nj4PST-Xh_Q",
+        "title": "The Ink Spots - If I Didn't Care | Supernatural - 15x16",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 188
+      },
+      {
+        "id": "vzeCOP5pJsU",
+        "title": "Jason Tarver & Thomas Greenwood - Judgement Day | Supernatural - ''Carry On'' Trailer Music",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 174
+      },
+      {
+        "id": "URJIrUMJxhk",
+        "title": "The Youngbloods - Get Together | Supernatural - 15x19",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 278
+      },
+      {
+        "id": "F6h495q-1BA",
+        "title": "Jackson Browne - Running on Empty | Supernatural - 15x19",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 287
+      },
+      {
+        "id": "FOaM14DoxjI",
+        "title": "Van Morrison - Ordinary Life | Supernatural - 15x20",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 213
+      },
+      {
+        "id": "Wez_Y5qhc1s",
+        "title": "Dire Straits - Brothers in Arms | Supernatural - 15x20",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 417
+      },
+      {
+        "id": "DuvSn_d7x0M",
+        "title": "Neoni - Carry On My Wayward Son | Supernatural - 15x20",
+        "artist": "SammyArrow",
+        "artists": [
+          "SammyArrow"
+        ],
+        "album": null,
+        "duration": 181
+      }
+    ],
+    "ultrakill": [
+      {
+        "id": "917xijnpJVw",
+        "title": "The Fire Is Gone (For Piano, Saxophone and Trumpet)",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Infinite Hyperdeath (Original Game Soundtrack)",
+        "duration": 161
+      },
+      {
+        "id": "sYeWkKyebQQ",
+        "title": "Take Care (ULTRAKILL: INFINITE HYPERDEATH)",
+        "artist": "Giovanne",
+        "artists": [
+          "Giovanne"
+        ],
+        "album": null,
+        "duration": 177
+      },
+      {
+        "id": "h4eXX5LGxuI",
+        "title": "Into the Fire",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Infinite Hyperdeath (Original Game Soundtrack)",
+        "duration": 241
+      },
+      {
+        "id": "tkLVbp0IH_E",
+        "title": "Unstoppable Force",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Infinite Hyperdeath (Original Game Soundtrack)",
+        "duration": 217
+      },
+      {
+        "id": "RbXEFL9RIWg",
+        "title": "Cerberus",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Infinite Hyperdeath (Original Game Soundtrack)",
+        "duration": 142
+      },
+      {
+        "id": "gYANvQPPukM",
+        "title": "A Thousand Greetings",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Infinite Hyperdeath (Original Game Soundtrack)",
+        "duration": 343
+      },
+      {
+        "id": "pUqKjJJTvj4",
+        "title": "A Shattered Illusion",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Infinite Hyperdeath (Original Game Soundtrack)",
+        "duration": 185
+      },
+      {
+        "id": "ukEE6OPltQA",
+        "title": "A Complete and Utter Destruction of the Senses",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Infinite Hyperdeath (Original Game Soundtrack)",
+        "duration": 129
+      },
+      {
+        "id": "zLdkpiYcZt8",
+        "title": "Theme of Cancer - ULTRAKILL Soundtrack | Heaven Pierce Her",
+        "artist": "Pcah",
+        "artists": [
+          "Pcah"
+        ],
+        "album": null,
+        "duration": 141
+      },
+      {
+        "id": "AX9pqyjYZBM",
+        "title": "Castle Vein",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Infinite Hyperdeath (Original Game Soundtrack)",
+        "duration": 341
+      },
+      {
+        "id": "f-VJT7V2uls",
+        "title": "Debussy: Clair de Lune - ULTRAKILL Soundtrack",
+        "artist": "Pcah",
+        "artists": [
+          "Pcah"
+        ],
+        "album": null,
+        "duration": 302
+      },
+      {
+        "id": "BhEnjxYLBYo",
+        "title": "Versus",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Infinite Hyperdeath (Original Game Soundtrack)",
+        "duration": 252
+      },
+      {
+        "id": "c4HovBdrsYM",
+        "title": "Cold Winds",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Infinite Hyperdeath (Original Game Soundtrack)",
+        "duration": 254
+      },
+      {
+        "id": "rD3ONF40PYw",
+        "title": "Requiem",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Infinite Hyperdeath (Original Game Soundtrack)",
+        "duration": 199
+      },
+      {
+        "id": "0eGf62Isnwo",
+        "title": "Panic Betrayer",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Infinite Hyperdeath (Original Game Soundtrack)",
+        "duration": 234
+      },
+      {
+        "id": "FIuia_wqvZw",
+        "title": "In the Presence of a King",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Infinite Hyperdeath (Original Game Soundtrack)",
+        "duration": 253
+      },
+      {
+        "id": "0oKVuDnNX-4",
+        "title": "Guts",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Infinite Hyperdeath (Original Game Soundtrack)",
+        "duration": 167
+      },
+      {
+        "id": "kzbbO_lyZ94",
+        "title": "Glory",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Infinite Hyperdeath (Original Game Soundtrack)",
+        "duration": 130
+      },
+      {
+        "id": "5mjP5ev-TJQ",
+        "title": "Bach: BWV 639 \"I call to you, Lord Jesus Christ\" - ULTRAKILL Soundtrack",
+        "artist": "Pcah",
+        "artists": [
+          "Pcah"
+        ],
+        "album": null,
+        "duration": 131
+      },
+      {
+        "id": "HZY-9V1YX_U",
+        "title": "Divine Intervention",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Infinite Hyperdeath (Original Game Soundtrack)",
+        "duration": 157
+      },
+      {
+        "id": "ZDStF3H4L-o",
+        "title": "Disgrace. Humiliation.",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Infinite Hyperdeath (Original Game Soundtrack)",
+        "duration": 111
+      },
+      {
+        "id": "AfebjWTQcJM",
+        "title": "Insert Disc 2 - ULTRAKILL OST...?",
+        "artist": "HIRΩSHI",
+        "artists": [
+          "HIRΩSHI"
+        ],
+        "album": null,
+        "duration": 34
+      },
+      {
+        "id": "3wp6C1HRTXA",
+        "title": "Dune Eternal",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Imperfect Hatred (Original Game Soundtrack)",
+        "duration": 280
+      },
+      {
+        "id": "HUYZu3LpMHM",
+        "title": "Sands of Tide",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Imperfect Hatred (Original Game Soundtrack)",
+        "duration": 260
+      },
+      {
+        "id": "m-WMLdMOQwE",
+        "title": "Dancer in the Darkness",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Imperfect Hatred (Original Game Soundtrack)",
+        "duration": 218
+      },
+      {
+        "id": "bcOUS1o6bwM",
+        "title": "Duel (Versus Reprise)",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Imperfect Hatred (Original Game Soundtrack)",
+        "duration": 365
+      },
+      {
+        "id": "ZIgtEW8jOt4",
+        "title": "Deep Blue",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Imperfect Hatred (Original Game Soundtrack)",
+        "duration": 322
+      },
+      {
+        "id": "JviF4u8qSyk",
+        "title": "\"He Is the Light in My Darkness\"",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Imperfect Hatred (Original Game Soundtrack)",
+        "duration": 181
+      },
+      {
+        "id": "LNNoFHH5UDQ",
+        "title": "Death Odyssey",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Imperfect Hatred (Original Game Soundtrack)",
+        "duration": 314
+      },
+      {
+        "id": "lQ8Hqtgyc5U",
+        "title": "Death Odyssey Aftermath",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Imperfect Hatred (Original Game Soundtrack)",
+        "duration": 197
+      },
+      {
+        "id": "sBCS5pRP_xk",
+        "title": "The Abyss and the Serpent",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Imperfect Hatred (Original Game Soundtrack)",
+        "duration": 266
+      },
+      {
+        "id": "jp8YBW6RsMc",
+        "title": "Chord of the Crooked Saints",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Imperfect Hatred (Original Game Soundtrack)",
+        "duration": 166
+      },
+      {
+        "id": "m5ra-w1xct8",
+        "title": "Altars of Apostasy",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Imperfect Hatred (Original Game Soundtrack)",
+        "duration": 342
+      },
+      {
+        "id": "qmGmuIAmWok",
+        "title": "Fallen Angel - ULTRAKILL Soundtrack | Heaven Pierce Her",
+        "artist": "Pcah",
+        "artists": [
+          "Pcah"
+        ],
+        "album": null,
+        "duration": 132
+      },
+      {
+        "id": "BSpR0DJEgxM",
+        "title": "The Death of God's Will",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Imperfect Hatred (Original Game Soundtrack)",
+        "duration": 312
+      },
+      {
+        "id": "g5EhlFvqiM8",
+        "title": "Silence. Introspection.",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Imperfect Hatred (Original Game Soundtrack)",
+        "duration": 106
+      },
+      {
+        "id": "_Juw_2S69Rw",
+        "title": "Beethoven: 7th Symphony, 2nd Movement: Allegretto - ULTRAKILL Soundtrack | Lambis Vassiliadis",
+        "artist": "Pcah",
+        "artists": [
+          "Pcah"
+        ],
+        "album": null,
+        "duration": 405
+      },
+      {
+        "id": "8HpjTOVkgGQ",
+        "title": "Horns of Insurrection - ULTRAKILL Soundtrack | Heaven Pierce Her",
+        "artist": "Pcah",
+        "artists": [
+          "Pcah"
+        ],
+        "album": null,
+        "duration": 23
+      },
+      {
+        "id": "0k1lQM-0_j0",
+        "title": "The World Looks White",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Violence (Original Game Soundtrack)",
+        "duration": 159
+      },
+      {
+        "id": "In3SLsHpCSg",
+        "title": "The World Looks Red",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Violence (Original Game Soundtrack)",
+        "duration": 400
+      },
+      {
+        "id": "EsIyjMIr60U",
+        "title": "Bull of Hell",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Violence (Original Game Soundtrack)",
+        "duration": 223
+      },
+      {
+        "id": "QIwHNJHA5_o",
+        "title": "Do Robots Dream of Eternal Sleep?",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Violence (Original Game Soundtrack)",
+        "duration": 136
+      },
+      {
+        "id": "COP66yrNde4",
+        "title": "Hear! the Siren Song Call of Death",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Violence (Original Game Soundtrack)",
+        "duration": 320
+      },
+      {
+        "id": "8QCX2Z-9akY",
+        "title": "Suffering Leaves Suffering Leaves",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Violence (Original Game Soundtrack)",
+        "duration": 139
+      },
+      {
+        "id": "DN373sFsI64",
+        "title": "Danse Macabre",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Violence (Original Game Soundtrack)",
+        "duration": 216
+      },
+      {
+        "id": "Gcj9-iF_lTw",
+        "title": "War Without Reason",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Violence (Original Game Soundtrack)",
+        "duration": 409
+      },
+      {
+        "id": "DLIBgKc3JtY",
+        "title": "Heaven Pierce Her - In Absentia ΛΟΓΟΣ (ULTRAKILL 8-1 Theme)",
+        "artist": "Hakita",
+        "artists": [
+          "Hakita"
+        ],
+        "album": null,
+        "duration": 257
+      },
+      {
+        "id": "8V0071pcc74",
+        "title": "Heaven Pierce Her - Spiral Out (Keep Going) (ULTRAKILL 8-1 Theme #2)",
+        "artist": "Hakita",
+        "artists": [
+          "Hakita"
+        ],
+        "album": null,
+        "duration": 284
+      },
+      {
+        "id": "KtfDOac1CVU",
+        "title": "Heaven Pierce Her - Never Odd or Even (ULTRAKILL 8-2 Theme #1)",
+        "artist": "Hakita",
+        "artists": [
+          "Hakita"
+        ],
+        "album": null,
+        "duration": 133
+      },
+      {
+        "id": "JAjqRrU-_dI",
+        "title": "Heaven Pierce Her - No Devil Lived On (ULTRAKILL 8-2 Theme #2)",
+        "artist": "Hakita",
+        "artists": [
+          "Hakita"
+        ],
+        "album": null,
+        "duration": 438
+      },
+      {
+        "id": "QjTp6j3igBM",
+        "title": "Heaven Pierce Her - Mirror Rim (ULTRAKILL 8-2 Theme #3)",
+        "artist": "Hakita",
+        "artists": [
+          "Hakita"
+        ],
+        "album": null,
+        "duration": 184
+      },
+      {
+        "id": "yMDE-wAHHL0",
+        "title": "Heaven Pierce Her - The Break (Crimson Glass deComposition) (ULTRAKILL 8-3 Theme #1)",
+        "artist": "Hakita",
+        "artists": [
+          "Hakita"
+        ],
+        "album": null,
+        "duration": 263
+      },
+      {
+        "id": "B6ltSXD9eMU",
+        "title": "Heaven Pierce Her - The Shattering Circle, or: A Charade of... (ULTRAKILL 8-3 Theme #2)",
+        "artist": "Hakita",
+        "artists": [
+          "Hakita"
+        ],
+        "album": null,
+        "duration": 382
+      },
+      {
+        "id": "XlILSmGtT64",
+        "title": "Heaven Pierce Her - Event Horizon (Reach for the Sun and Burn! Burn! Burn!) (ULTRAKILL 8-3 Theme #3)",
+        "artist": "Hakita",
+        "artists": [
+          "Hakita"
+        ],
+        "album": null,
+        "duration": 312
+      },
+      {
+        "id": "iMAXDvfWIE8",
+        "title": "Heaven Pierce Her - The Fall (ULTRAKILL 8-4 Theme)",
+        "artist": "Hakita",
+        "artists": [
+          "Hakita"
+        ],
+        "album": null,
+        "duration": 187
+      },
+      {
+        "id": "UruqD7fo1uA",
+        "title": "Heaven Pierce Her - The Spinal Staircase (ULTRAKILL P-1 Intro)",
+        "artist": "Hakita",
+        "artists": [
+          "Hakita"
+        ],
+        "album": null,
+        "duration": 88
+      },
+      {
+        "id": "7Wrf0-YPW7c",
+        "title": "Chaos",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Chaos / Order (Original Game Soundtrack)",
+        "duration": 139
+      },
+      {
+        "id": "9E0xFvFCUTM",
+        "title": "Order",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Chaos / Order (Original Game Soundtrack)",
+        "duration": 421
+      },
+      {
+        "id": "Fx4RkmBlsz4",
+        "title": "Heaven Pierce Her - Intro (Weihnachten Am Klavier) (ULTRAKILL P-2 Intro)",
+        "artist": "Hakita",
+        "artists": [
+          "Hakita"
+        ],
+        "album": null,
+        "duration": 61
+      },
+      {
+        "id": "S3OnrZE7_CE",
+        "title": "the cerberus room (feat. A Ferryman) - ULTRAKILL Soundtrack | Heaven Pierce Her",
+        "artist": "Pcah",
+        "artists": [
+          "Pcah"
+        ],
+        "album": null,
+        "duration": 59
+      },
+      {
+        "id": "MG5L-1pI8bI",
+        "title": "KEYGEN CHURCH - Tenebre Rosso Sangue (ULTRAKILL P-2 Theme #1)",
+        "artist": "Hakita",
+        "artists": [
+          "Hakita"
+        ],
+        "album": null,
+        "duration": 234
+      },
+      {
+        "id": "qOlU6Lsmvvs",
+        "title": "Pandemonium",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Pandemonium / War (Original Game Soundtrack)",
+        "duration": 211
+      },
+      {
+        "id": "TWS07eY1ElU",
+        "title": "War",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Pandemonium / War (Original Game Soundtrack)",
+        "duration": 386
+      },
+      {
+        "id": "Oa2pw6K6rPA",
+        "title": "Take Care ~ Prime Terminal - ULTRAKILL Soundtrack | Heaven Pierce Her",
+        "artist": "Pcah",
+        "artists": [
+          "Pcah"
+        ],
+        "album": null,
+        "duration": 72
+      },
+      {
+        "id": "jvXwKCex990",
+        "title": "Sanctuary in the Garden of the Mind",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Infinite Hyperdeath (Original Game Soundtrack)",
+        "duration": 147
+      },
+      {
+        "id": "hCe7YdEgyj4",
+        "title": "Sunshine (Mirage)",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Chaos / Order (Original Game Soundtrack)",
+        "duration": 149
+      },
+      {
+        "id": "zo3WaEwkZgQ",
+        "title": "The Song That Plays in the Level Colloquially Known as 4-S",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Pandemonium / War (Original Game Soundtrack)",
+        "duration": 236
+      },
+      {
+        "id": "_og4C4aMtJ4",
+        "title": "Lakeside Songbook",
+        "artist": "Heaven Pierce Her",
+        "artists": [
+          "Heaven Pierce Her"
+        ],
+        "album": "Ultrakill: Pandemonium / War (Original Game Soundtrack)",
+        "duration": 440
+      },
+      {
+        "id": "D7TkL6MYbcw",
+        "title": "Heaven Pierce Her - After Hours (ULTRAKILL 7-S Theme)",
+        "artist": "Hakita",
+        "artists": [
+          "Hakita"
+        ],
+        "album": null,
+        "duration": 440
+      },
+      {
+        "id": "lMIGJyNL7EY",
+        "title": "A Heart of Cold (ULTRAKILL 0-E Theme)",
+        "artist": "Hakita",
+        "artists": [
+          "Hakita"
+        ],
+        "album": null,
+        "duration": 180
+      },
+      {
+        "id": "ahfB4OPKpCk",
+        "title": "Heaven Pierce Her - Dead Heat Pulse (A Heart of Cold) (ULTRAKILL 0-E Theme #2)",
+        "artist": "Hakita",
+        "artists": [
+          "Hakita"
+        ],
+        "album": null,
+        "duration": 196
+      },
+      {
+        "id": "MDGduBS0ePo",
+        "title": "An Absence (ULTRAKILL 1-E Theme)",
+        "artist": "Hakita",
+        "artists": [
+          "Hakita"
+        ],
+        "album": null,
+        "duration": 320
+      },
+      {
+        "id": "dRjwHf-I7bU",
+        "title": "Heaven Pierce Her - A Part Falling (ULTRAKILL 1-E Theme #2)",
+        "artist": "Hakita",
+        "artists": [
+          "Hakita"
+        ],
+        "album": null,
+        "duration": 345
+      },
+      {
+        "id": "e9EqU9y69vU",
+        "title": "meganeko - The Cyber Grind (Ultrakill Soundtrack)",
+        "artist": "meganeko",
+        "artists": [
+          "meganeko"
+        ],
+        "album": null,
+        "duration": 306
+      },
+      {
+        "id": "4cZkGMsZQMQ",
+        "title": "HEALTH - HATEFUL (An ULTRAKILL Cyber Grind Song)",
+        "artist": "Hakita",
+        "artists": [
+          "Hakita"
+        ],
+        "album": null,
+        "duration": 251
+      },
+      {
+        "id": "KTCC053fLqs",
+        "title": "UltraChurch (ULTRAKILL) (Original Game Soundtrack)",
+        "artist": "Keygen Church",
+        "artists": [
+          "Keygen Church"
+        ],
+        "album": null,
+        "duration": 233
+      },
+      {
+        "id": "9p_Si21ig7c",
+        "title": "Robot Stop",
+        "artist": "King Gizzard & The Lizard Wizard",
+        "artists": [
+          "King Gizzard & The Lizard Wizard"
+        ],
+        "album": null,
+        "duration": 331
+      },
+      {
+        "id": "U8gKLveIvuk",
+        "title": "Supercell",
+        "artist": "King Gizzard & The Lizard Wizard",
+        "artists": [
+          "King Gizzard & The Lizard Wizard"
+        ],
+        "album": "PetroDragonic Apocalypse; or, Dawn of Eternal Night: An Annihilation of Planet Earth and the Beginning of Merciless Damnation",
+        "duration": 306
+      },
+      {
+        "id": "s1ZkghDSzkE",
+        "title": "The Dripping Tap",
+        "artist": "King Gizzard & The Lizard Wizard",
+        "artists": [
+          "King Gizzard & The Lizard Wizard"
+        ],
+        "album": "Omnium Gatherum",
+        "duration": 1098
+      },
+      {
+        "id": "Yiy-plVqG64",
+        "title": "【Music】NI4NI » For the Official ULTRAKILL Cybergrind OST",
+        "artist": "Vylet Pony",
+        "artists": [
+          "Vylet Pony"
+        ],
+        "album": null,
+        "duration": 260
+      },
+      {
+        "id": "05_5_NvGJ8c",
+        "title": "Vylet Pony - NI4NI (Instrumental)",
+        "artist": "Moonatik",
+        "artists": [
+          "Moonatik"
+        ],
+        "album": null,
+        "duration": 253
+      }
+    ]
+  }
+}

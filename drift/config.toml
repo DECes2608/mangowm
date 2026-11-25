@@ -1,0 +1,55 @@
+# Drift settings. Drift only reads this file and never rewrites it, so your
+# comments are safe. Restart drift after editing.
+
+[playback]
+volume = 100
+shuffle = true
+repeat = "all"
+autoplay = true
+restore_session = true
+seek_step = 5.0
+volume_step = 5.0
+
+[artist]
+# :artist and ga list the artist's most popular songs first, then more of their songs below
+popular_first = false
+
+[ui]
+# Accent color used throughout the UI.
+# Named colors: black, red, green, yellow, blue, magenta, cyan, gray, dark-gray,
+#               light-red, light-green, light-yellow, light-blue, light-magenta,
+#               light-cyan, white
+# Or use a hex value: "#FF8800"
+accent = "magenta"
+
+[discord]
+# Show the current song in your Discord status. Create an application at
+# https://discord.com/developers/applications (its name is shown after
+# "Listening to") and paste its Application ID here. Empty means off.
+client_id = ""
+
+[audio]
+# false: stream songs straight from YouTube (starts playing right away).
+# true:  download songs to the cache first, then play (and prefetch the next one).
+download = false
+# With download = true, songs longer than this many minutes are still streamed
+# instead of downloaded. 0 means download everything, however long.
+download_max_minutes = 15
+download_dir = "~/Music/drift"
+# Use your browser's cookies with yt-dlp when YouTube refuses to play something
+# ("Sign in to confirm you're not a bot", age-restricted songs, ...).
+# Examples: "firefox", "chrome", "chromium", "brave", "edge",
+# "firefox:my-profile". Empty means off. Close the browser if reading fails.
+cookies_from_browser = ""
+
+[keys]
+# Remap keys here. Each line sets an action to one key or a list of keys and
+# replaces that action's default keys. Everything you leave out keeps its vim
+# default. See the README for the list of actions.
+# Write keys as a character ("x", "G"), a name (space, enter, esc, tab, backtab,
+# backspace, delete, home, end, pageup, pagedown, up, down, left, right, f1-f12),
+# ctrl+key ("ctrl+d") or a sequence ("gg", "ctrl+x g"). An empty list unbinds.
+# quit = "Q"
+# toggle_queue_sidebar = "Q"
+# move_down = ["j", "down"]
+# go_top = ["gg", "home"]
