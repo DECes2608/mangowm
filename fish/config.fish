@@ -4,6 +4,9 @@ end
 
 set -U fish_greeting
 
+alias max "echo 0 | sudo tee /sys/bus/platform/drivers/ideapad_acpi/VPC2004:00/conservation_mode"
+alias limit "echo 1 | sudo tee /sys/bus/platform/drivers/ideapad_acpi/VPC2004:00/conservation_mode"
+
 export EDITOR=nvim
 
 alias yedek 'cd ~/.config && cp -r mango waybar rofi mako drift nvim gammastep fastfetch fish ~/mangowm/ && cd ~/mangowm && git add . && git commit -m "new changes" && git push && cd -'

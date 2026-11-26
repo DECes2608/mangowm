@@ -17,6 +17,10 @@
   ],
 
     "modules-right": [
+        "network",
+        "custom/sep",
+        "memory",
+        "custom/sep",
         "wireplumber",
         "custom/sep",
         "battery",
@@ -64,6 +68,20 @@
         "on-click": "pavucontrol"
     },
 
+"network": {
+    "format-wifi": "󰖩 {essid}",
+    "format-ethernet": "󰈀 Kablolu",
+    "format-disconnected": "󰖪 Yok",
+    "tooltip-format": "{ipaddr}/{cidr}",
+    "on-click": "foot -e nmtui"
+},
+
+"memory": {
+    "interval": 3,
+    "format": "{used:0.2f}-GB",
+    "tooltip-format": "{used:0.2f} / {total:0.2f} GiB"
+},
+
     "tray": {
         "spacing": 10
     },
@@ -75,10 +93,6 @@
     "cpu": {
         "format": "CPU: {usage}%",
         "tooltip": false
-    },
-
-    "memory": {
-        "format": "Ram: {used}GiB"
     },
 
     "disk": {
@@ -100,12 +114,7 @@
         "format-icons": ["", "", "", "", ""]
     },
 
-    "network": {
-        "format": "Connected",
-        "format-disconnected": "Disconnected ⚠"
-    },
-
-    "custom/sep": {
+"custom/sep": {
         "format": "|",
         "interval": "once"
     }
